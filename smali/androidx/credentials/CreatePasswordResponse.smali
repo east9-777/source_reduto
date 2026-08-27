@@ -1,0 +1,92 @@
+.class public final Landroidx/credentials/CreatePasswordResponse;
+.super Landroidx/credentials/CreateCredentialResponse;
+.source "SourceFile"
+
+
+# annotations
+.annotation runtime La/u52;
+.end annotation
+
+.annotation system Ldalvik/annotation/MemberClasses;
+    value = {
+        Landroidx/credentials/CreatePasswordResponse$Companion;
+    }
+.end annotation
+
+
+# static fields
+.field public static final Companion:Landroidx/credentials/CreatePasswordResponse$Companion;
+    .annotation build Lorg/jetbrains/annotations/NotNull;
+    .end annotation
+.end field
+
+
+# direct methods
+.method static constructor <clinit>()V
+    .locals 2
+
+    new-instance v0, Landroidx/credentials/CreatePasswordResponse$Companion;
+
+    const/4 v1, 0x0
+
+    invoke-direct {v0, v1}, Landroidx/credentials/CreatePasswordResponse$Companion;-><init>(La/g90;)V
+
+    sput-object v0, Landroidx/credentials/CreatePasswordResponse;->Companion:Landroidx/credentials/CreatePasswordResponse$Companion;
+
+    return-void
+.end method
+
+.method public constructor <init>()V
+    .locals 1
+
+    .line 4
+    new-instance v0, Landroid/os/Bundle;
+
+    invoke-direct {v0}, Landroid/os/Bundle;-><init>()V
+
+    invoke-direct {p0, v0}, Landroidx/credentials/CreatePasswordResponse;-><init>(Landroid/os/Bundle;)V
+
+    return-void
+.end method
+
+.method private constructor <init>(Landroid/os/Bundle;)V
+    .locals 1
+
+    .line 2
+    const-string v0, "android.credentials.TYPE_PASSWORD_CREDENTIAL"
+
+    .line 3
+    invoke-direct {p0, v0, p1}, Landroidx/credentials/CreateCredentialResponse;-><init>(Ljava/lang/String;Landroid/os/Bundle;)V
+
+    return-void
+.end method
+
+.method public synthetic constructor <init>(Landroid/os/Bundle;La/g90;)V
+    .locals 0
+
+    .line 1
+    invoke-direct {p0, p1}, Landroidx/credentials/CreatePasswordResponse;-><init>(Landroid/os/Bundle;)V
+
+    return-void
+.end method
+
+.method public static final createFrom$credentials_release(Landroid/os/Bundle;)Landroidx/credentials/CreatePasswordResponse;
+    .locals 1
+    .param p0    # Landroid/os/Bundle;
+        .annotation build Lorg/jetbrains/annotations/NotNull;
+        .end annotation
+    .end param
+    .annotation runtime La/so1;
+    .end annotation
+
+    .annotation build Lorg/jetbrains/annotations/NotNull;
+    .end annotation
+
+    sget-object v0, Landroidx/credentials/CreatePasswordResponse;->Companion:Landroidx/credentials/CreatePasswordResponse$Companion;
+
+    invoke-virtual {v0, p0}, Landroidx/credentials/CreatePasswordResponse$Companion;->createFrom$credentials_release(Landroid/os/Bundle;)Landroidx/credentials/CreatePasswordResponse;
+
+    move-result-object p0
+
+    return-object p0
+.end method

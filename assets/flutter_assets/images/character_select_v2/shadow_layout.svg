@@ -1,0 +1,13 @@
+<svg width="636" height="366" viewBox="0 0 636 366" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Layout - Main " clip-path="url(#clip0_0_1)">
+<rect id="sombra - layout" width="636" height="366" fill="url(#paint0_radial_0_1)"/>
+</g>
+<defs>
+<radialGradient id="paint0_radial_0_1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(318 18.5) rotate(90) scale(391 391)">
+<stop stop-color="#0B1017" stop-opacity="0"/>
+<stop offset="1" stop-color="#0B1017" stop-opacity="0.8"/>
+</radialGradient>
+<clipPath id="clip0_0_1">
+</clipPath>
+</defs>
+</svg>

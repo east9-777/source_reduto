@@ -1,0 +1,8221 @@
+[
+  {
+    "itemid": 1,
+    "itemname": "10kgoldchain",
+    "imagepath": "images/inventory/10kgoldchain.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 2,
+    "itemname": "1gheroin",
+    "imagepath": "images/inventory/1gheroin.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 3,
+    "itemname": "7and7",
+    "imagepath": "images/inventory/7and7.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 4,
+    "itemname": "acapulcogold_leaf",
+    "imagepath": "images/inventory/acapulcogold_leaf.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 5,
+    "itemname": "acapulcogold_seed",
+    "imagepath": "images/inventory/acapulcogold_seed.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 6,
+    "itemname": "acapulcogold_trimmed_bud",
+    "imagepath": "images/inventory/acapulcogold_trimmed_bud.png",
+    "maxquantity": 20,
+    "weight": 1
+  },
+  {
+    "itemid": 7,
+    "itemname": "acapulcogold_untrimmed_bud",
+    "imagepath": "images/inventory/acapulcogold_untrimmed_bud.png",
+    "maxquantity": 20,
+    "weight": 1
+  },
+  {
+    "itemid": 8,
+    "itemname": "accesstool",
+    "imagepath": "images/inventory/accesstool.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 9,
+    "itemname": "aceofhearts",
+    "imagepath": "images/inventory/aceofhearts.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 10,
+    "itemname": "acetone",
+    "imagepath": "images/inventory/acetone.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 11,
+    "itemname": "acetonebarrel",
+    "imagepath": "images/inventory/acetonebarrel.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 12,
+    "itemname": "acyclovir",
+    "imagepath": "images/inventory/acyclovir.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 13,
+    "itemname": "advancedkit",
+    "imagepath": "images/inventory/advancedkit.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 14,
+    "itemname": "advancedlockpick",
+    "imagepath": "images/inventory/advancedlockpick.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 15,
+    "itemname": "aed",
+    "imagepath": "images/inventory/aed.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 16,
+    "itemname": "alla",
+    "imagepath": "images/inventory/alla.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 17,
+    "itemname": "aluminum",
+    "imagepath": "images/inventory/aluminum.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 18,
+    "itemname": "aluminumoxide",
+    "imagepath": "images/inventory/aluminumoxide.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 19,
+    "itemname": "americancheese",
+    "imagepath": "images/inventory/americancheese.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 20,
+    "itemname": "ammonia",
+    "imagepath": "images/inventory/ammonia.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 21,
+    "itemname": "ammonium_nitrate",
+    "imagepath": "images/inventory/ammonium_nitrate.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 22,
+    "itemname": "ammoniumnitrate",
+    "imagepath": "images/inventory/ammoniumnitrate.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 23,
+    "itemname": "ammoniumnitratebarrel",
+    "imagepath": "images/inventory/ammoniumnitratebarrel.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 24,
+    "itemname": "anchor",
+    "imagepath": "images/inventory/anchor.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 25,
+    "itemname": "anglegrinder",
+    "imagepath": "images/inventory/anglegrinder.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 26,
+    "itemname": "antibiotics",
+    "imagepath": "images/inventory/antibiotics.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 27,
+    "itemname": "antipatharia_coral",
+    "imagepath": "images/inventory/antipatharia_coral.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 28,
+    "itemname": "apple",
+    "imagepath": "images/inventory/apple.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 29,
+    "itemname": "apple_crate",
+    "imagepath": "images/inventory/apple_crate.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 30,
+    "itemname": "arcade_plush1",
+    "imagepath": "images/inventory/arcade_plush1.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 31,
+    "itemname": "arcade_plush2",
+    "imagepath": "images/inventory/arcade_plush2.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 32,
+    "itemname": "arcade_plush3",
+    "imagepath": "images/inventory/arcade_plush3.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 33,
+    "itemname": "arcade_plush4",
+    "imagepath": "images/inventory/arcade_plush4.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 34,
+    "itemname": "arcade_plush5",
+    "imagepath": "images/inventory/arcade_plush5.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 35,
+    "itemname": "arcade_plush6",
+    "imagepath": "images/inventory/arcade_plush6.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 36,
+    "itemname": "arcade_plush7",
+    "imagepath": "images/inventory/arcade_plush7.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 37,
+    "itemname": "armbrace",
+    "imagepath": "images/inventory/armbrace.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 38,
+    "itemname": "armor",
+    "imagepath": "images/inventory/armor.png",
+    "maxquantity": 1000,
+    "weight": 2.5,
+    "description": "Proteção corporal que reduz danos de projéteis na região do torso."
+  },
+  {
+    "itemid": 39,
+    "itemname": "armor_ems",
+    "imagepath": "images/inventory/armor_ems.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 40,
+    "itemname": "armour",
+    "imagepath": "images/inventory/armour.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 41,
+    "itemname": "aspirin",
+    "imagepath": "images/inventory/aspirin.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 42,
+    "itemname": "atomfries",
+    "imagepath": "images/inventory/atomfries.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 43,
+    "itemname": "atom-rings",
+    "imagepath": "images/inventory/atom-rings.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 44,
+    "itemname": "atomshake",
+    "imagepath": "images/inventory/atomshake.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 45,
+    "itemname": "atomsoda",
+    "imagepath": "images/inventory/atomsoda.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 46,
+    "itemname": "atum",
+    "imagepath": "images/inventory/atum.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 47,
+    "itemname": "azithromycin",
+    "imagepath": "images/inventory/azithromycin.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 48,
+    "itemname": "babypowder",
+    "imagepath": "images/inventory/babypowder.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 49,
+    "itemname": "bacalhaucozido",
+    "imagepath": "images/inventory/bacalhaucozido.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 50,
+    "itemname": "backpack1",
+    "imagepath": "images/inventory/backpack1.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 51,
+    "itemname": "backpack2",
+    "imagepath": "images/inventory/backpack2.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 52,
+    "itemname": "backpack3",
+    "imagepath": "images/inventory/backpack3.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 53,
+    "itemname": "backpack4",
+    "imagepath": "images/inventory/backpack4.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 54,
+    "itemname": "backpack5",
+    "imagepath": "images/inventory/backpack5.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 55,
+    "itemname": "bacon",
+    "imagepath": "images/inventory/bacon.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 56,
+    "itemname": "baconburger",
+    "imagepath": "images/inventory/baconburger.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 57,
+    "itemname": "baconcheesemelt",
+    "imagepath": "images/inventory/baconcheesemelt.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 58,
+    "itemname": "baconegg",
+    "imagepath": "images/inventory/baconegg.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 59,
+    "itemname": "baconroll",
+    "imagepath": "images/inventory/baconroll.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 60,
+    "itemname": "bag",
+    "imagepath": "images/inventory/bag.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 61,
+    "itemname": "bag_atom",
+    "imagepath": "images/inventory/bag_atom.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 62,
+    "itemname": "bag_burger",
+    "imagepath": "images/inventory/bag_burger.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 63,
+    "itemname": "bag_gnp",
+    "imagepath": "images/inventory/bag_gnp.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 64,
+    "itemname": "bag_pearls",
+    "imagepath": "images/inventory/bag_pearls.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 65,
+    "itemname": "bag_pops",
+    "imagepath": "images/inventory/bag_pops.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 66,
+    "itemname": "bag_tacofarmer",
+    "imagepath": "images/inventory/bag_tacofarmer.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 67,
+    "itemname": "baggy_cocaine",
+    "imagepath": "images/inventory/baggy_cocaine.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 68,
+    "itemname": "baggy_empty",
+    "imagepath": "images/inventory/baggy_empty.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 69,
+    "itemname": "baggy_empty2",
+    "imagepath": "images/inventory/baggy_empty2.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 70,
+    "itemname": "baggy_extasy",
+    "imagepath": "images/inventory/baggy_extasy.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 71,
+    "itemname": "baggy_meth",
+    "imagepath": "images/inventory/baggy_meth.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 72,
+    "itemname": "baggy_methLG",
+    "imagepath": "images/inventory/baggy_methLG.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 73,
+    "itemname": "baggy_weed",
+    "imagepath": "images/inventory/baggy_weed.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 74,
+    "itemname": "bakingsoda",
+    "imagepath": "images/inventory/bakingsoda.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 75,
+    "itemname": "baleia",
+    "imagepath": "images/inventory/baleia.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 76,
+    "itemname": "bandage",
+    "imagepath": "images/inventory/bandage.png",
+    "maxquantity": 20,
+    "weight": 1
+  },
+  {
+    "itemid": 77,
+    "itemname": "bangers",
+    "imagepath": "images/inventory/bangers.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 78,
+    "itemname": "baquette",
+    "imagepath": "images/inventory/baquette.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 79,
+    "itemname": "barley",
+    "imagepath": "images/inventory/barley.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 80,
+    "itemname": "barley_sack",
+    "imagepath": "images/inventory/barley_sack.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 81,
+    "itemname": "barley_seed",
+    "imagepath": "images/inventory/barley_seed.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 82,
+    "itemname": "barricade",
+    "imagepath": "images/inventory/barricade.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 83,
+    "itemname": "base2",
+    "imagepath": "images/inventory/base2.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 84,
+    "itemname": "basil",
+    "imagepath": "images/inventory/basil.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 85,
+    "itemname": "beaker",
+    "imagepath": "images/inventory/beaker.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 86,
+    "itemname": "bean_carmalcoffee",
+    "imagepath": "images/inventory/bean_carmalcoffee.png",
+    "maxquantity": 50,
+    "weight": 0.3
+  },
+  {
+    "itemid": 87,
+    "itemname": "bean_coffee1",
+    "imagepath": "images/inventory/bean_coffee1.png",
+    "maxquantity": 50,
+    "weight": 0.3
+  },
+  {
+    "itemid": 88,
+    "itemname": "bean_coffee2",
+    "imagepath": "images/inventory/bean_coffee2.png",
+    "maxquantity": 50,
+    "weight": 0.3
+  },
+  {
+    "itemid": 89,
+    "itemname": "bean_coffee3",
+    "imagepath": "images/inventory/bean_coffee3.png",
+    "maxquantity": 50,
+    "weight": 0.3
+  },
+  {
+    "itemid": 90,
+    "itemname": "bean_coffee4",
+    "imagepath": "images/inventory/bean_coffee4.png",
+    "maxquantity": 50,
+    "weight": 0.3
+  },
+  {
+    "itemid": 91,
+    "itemname": "bean_hotchocolate",
+    "imagepath": "images/inventory/bean_hotchocolate.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 92,
+    "itemname": "bean_pumpkinlate",
+    "imagepath": "images/inventory/bean_pumpkinlate.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 93,
+    "itemname": "beef_jerky",
+    "imagepath": "images/inventory/beef_jerky.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 94,
+    "itemname": "beerglass",
+    "imagepath": "images/inventory/beerglass.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 95,
+    "itemname": "beerglass2",
+    "imagepath": "images/inventory/beerglass2.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 96,
+    "itemname": "beerglass3",
+    "imagepath": "images/inventory/beerglass3.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 97,
+    "itemname": "bellini",
+    "imagepath": "images/inventory/bellini.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 98,
+    "itemname": "beltcutter",
+    "imagepath": "images/inventory/beltcutter.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 99,
+    "itemname": "bento",
+    "imagepath": "images/inventory/bento.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 100,
+    "itemname": "bento2",
+    "imagepath": "images/inventory/bento2.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 101,
+    "itemname": "bento3",
+    "imagepath": "images/inventory/bento3.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 102,
+    "itemname": "bento4",
+    "imagepath": "images/inventory/bento4.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 103,
+    "itemname": "bento5",
+    "imagepath": "images/inventory/bento5.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 104,
+    "itemname": "bento6",
+    "imagepath": "images/inventory/bento6.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 105,
+    "itemname": "big_scale",
+    "imagepath": "images/inventory/big_scale.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 106,
+    "itemname": "bin_blue",
+    "imagepath": "images/inventory/bin_blue.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 107,
+    "itemname": "bin_red",
+    "imagepath": "images/inventory/bin_red.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 108,
+    "itemname": "binoculars",
+    "imagepath": "images/inventory/binoculars.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 109,
+    "itemname": "bird_feather",
+    "imagepath": "images/inventory/bird_feather.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 110,
+    "itemname": "blackrussian",
+    "imagepath": "images/inventory/blackrussian.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 111,
+    "itemname": "bloodbag",
+    "imagepath": "images/inventory/bloodbag.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 112,
+    "itemname": "bloodsample",
+    "imagepath": "images/inventory/bloodsample.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 113,
+    "itemname": "bloodymary",
+    "imagepath": "images/inventory/bloodymary.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 114,
+    "itemname": "blueberry",
+    "imagepath": "images/inventory/blueberry.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 115,
+    "itemname": "blueberry_crate",
+    "imagepath": "images/inventory/blueberry_crate.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 116,
+    "itemname": "blueberry_seed",
+    "imagepath": "images/inventory/blueberry_seed.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 117,
+    "itemname": "bluekamikaze",
+    "imagepath": "images/inventory/bluekamikaze.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 118,
+    "itemname": "blueprint",
+    "imagepath": "images/inventory/blueprint.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 119,
+    "itemname": "blunt",
+    "imagepath": "images/inventory/blunt.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 120,
+    "itemname": "bluntwrap",
+    "imagepath": "images/inventory/bluntwrap.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 121,
+    "itemname": "bmx",
+    "imagepath": "images/inventory/bmx.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 122,
+    "itemname": "boar_tusks",
+    "imagepath": "images/inventory/boar_tusks.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 123,
+    "itemname": "boba",
+    "imagepath": "images/inventory/boba.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 124,
+    "itemname": "bodybrace",
+    "imagepath": "images/inventory/bodybrace.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 125,
+    "itemname": "bolognese",
+    "imagepath": "images/inventory/bolognese.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 126,
+    "itemname": "bomb",
+    "imagepath": "images/inventory/bomb.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 127,
+    "itemname": "boombox",
+    "imagepath": "images/inventory/boombox.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 128,
+    "itemname": "bottle",
+    "imagepath": "images/inventory/bottle.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 129,
+    "itemname": "box_chocolate",
+    "imagepath": "images/inventory/box_chocolate.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 130,
+    "itemname": "box_empty",
+    "imagepath": "images/inventory/box_empty.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 131,
+    "itemname": "box_meat",
+    "imagepath": "images/inventory/box_meat.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 132,
+    "itemname": "box_seafood",
+    "imagepath": "images/inventory/box_seafood.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 133,
+    "itemname": "bplate",
+    "imagepath": "images/inventory/bplate.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 134,
+    "itemname": "bprooftires",
+    "imagepath": "images/inventory/bprooftires.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 135,
+    "itemname": "brakes1",
+    "imagepath": "images/inventory/brakes1.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 136,
+    "itemname": "brakes2",
+    "imagepath": "images/inventory/brakes2.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 137,
+    "itemname": "brakes3",
+    "imagepath": "images/inventory/brakes3.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 138,
+    "itemname": "breadslice",
+    "imagepath": "images/inventory/breadslice.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 139,
+    "itemname": "breathalyzer",
+    "imagepath": "images/inventory/breathalyzer.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 140,
+    "itemname": "brick_cocaine",
+    "imagepath": "images/inventory/brick_cocaine.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 141,
+    "itemname": "brick_cocaine2",
+    "imagepath": "images/inventory/brick_cocaine2.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 142,
+    "itemname": "brick_meth",
+    "imagepath": "images/inventory/brick_meth.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 143,
+    "itemname": "brick_opium",
+    "imagepath": "images/inventory/brick_opium.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 144,
+    "itemname": "brick_weed",
+    "imagepath": "images/inventory/brick_weed.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 145,
+    "itemname": "broccoli",
+    "imagepath": "images/inventory/broccoli.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 146,
+    "itemname": "broccoli_crate",
+    "imagepath": "images/inventory/broccoli_crate.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 147,
+    "itemname": "broccoli_seed",
+    "imagepath": "images/inventory/broccoli_seed.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 148,
+    "itemname": "bs_bun",
+    "imagepath": "images/inventory/bs_bun.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 149,
+    "itemname": "bs_patty_raw",
+    "imagepath": "images/inventory/bs_patty_raw.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 150,
+    "itemname": "bucket",
+    "imagepath": "images/inventory/bucket.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 151,
+    "itemname": "bumper",
+    "imagepath": "images/inventory/bumper.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 152,
+    "itemname": "burger",
+    "imagepath": "images/inventory/burger.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 153,
+    "itemname": "burger-bleeder",
+    "imagepath": "images/inventory/burger-bleeder.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 154,
+    "itemname": "burgerbun",
+    "imagepath": "images/inventory/burgerbun.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 155,
+    "itemname": "burger-chickenmelt",
+    "imagepath": "images/inventory/burger-chickenmelt.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 156,
+    "itemname": "burger-chickenwrap",
+    "imagepath": "images/inventory/burger-chickenwrap.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 157,
+    "itemname": "burger-coffee",
+    "imagepath": "images/inventory/burger-coffee.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 158,
+    "itemname": "burger-creampie",
+    "imagepath": "images/inventory/burger-creampie.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 159,
+    "itemname": "burger-fries",
+    "imagepath": "images/inventory/burger-fries.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 160,
+    "itemname": "burger-frozennugget",
+    "imagepath": "images/inventory/burger-frozennugget.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 161,
+    "itemname": "burger-goatwrap",
+    "imagepath": "images/inventory/burger-goatwrap.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 162,
+    "itemname": "burger-heartstopper",
+    "imagepath": "images/inventory/burger-heartstopper.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 163,
+    "itemname": "burger-icecream",
+    "imagepath": "images/inventory/burger-icecream.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 164,
+    "itemname": "burger-icecream2",
+    "imagepath": "images/inventory/burger-icecream2.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 165,
+    "itemname": "burger-icecream-empty",
+    "imagepath": "images/inventory/burger-icecream-empty.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 166,
+    "itemname": "burgermeat",
+    "imagepath": "images/inventory/burgermeat.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 167,
+    "itemname": "burger-meatfree",
+    "imagepath": "images/inventory/burger-meatfree.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 168,
+    "itemname": "Leite",
+    "imagepath": "images/inventory/burger-milk.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 169,
+    "itemname": "burger-moneyshot",
+    "imagepath": "images/inventory/burger-moneyshot.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 170,
+    "itemname": "burger-onion",
+    "imagepath": "images/inventory/burger-onion.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 171,
+    "itemname": "burgerpatty",
+    "imagepath": "images/inventory/burgerpatty.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 172,
+    "itemname": "burger-rimjob",
+    "imagepath": "images/inventory/burger-rimjob.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 173,
+    "itemname": "burger-shotnuggets",
+    "imagepath": "images/inventory/burger-shotnuggets.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 174,
+    "itemname": "burger-shotrings",
+    "imagepath": "images/inventory/burger-shotrings.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 175,
+    "itemname": "burger-slicedonion",
+    "imagepath": "images/inventory/burger-slicedonion.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 176,
+    "itemname": "burger-slicedpotato",
+    "imagepath": "images/inventory/burger-slicedpotato.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 177,
+    "itemname": "burger-softdrink",
+    "imagepath": "images/inventory/burger-softdrink.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 178,
+    "itemname": "burger-torpedo",
+    "imagepath": "images/inventory/burger-torpedo.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 179,
+    "itemname": "burndressing",
+    "imagepath": "images/inventory/burndressing.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 180,
+    "itemname": "burrito",
+    "imagepath": "images/inventory/burrito.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 181,
+    "itemname": "butcherpaper",
+    "imagepath": "images/inventory/butcherpaper.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 182,
+    "itemname": "c4_bomb",
+    "imagepath": "images/inventory/c4_bomb.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 183,
+    "itemname": "cactus_seed",
+    "imagepath": "images/inventory/cactus_seed.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 184,
+    "itemname": "cactusfruit",
+    "imagepath": "images/inventory/cactusfruit.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 185,
+    "itemname": "cactusfruit_crate",
+    "imagepath": "images/inventory/cactusfruit_crate.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 186,
+    "itemname": "cake_birthday1",
+    "imagepath": "images/inventory/cake_birthday1.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 187,
+    "itemname": "cake_birthday2",
+    "imagepath": "images/inventory/cake_birthday2.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 188,
+    "itemname": "cake_carrot",
+    "imagepath": "images/inventory/cake_carrot.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 189,
+    "itemname": "cake_chocolate",
+    "imagepath": "images/inventory/cake_chocolate.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 190,
+    "itemname": "cake_pineapple",
+    "imagepath": "images/inventory/cake_pineapple.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 191,
+    "itemname": "cake_redvelvet",
+    "imagepath": "images/inventory/cake_redvelvet.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 192,
+    "itemname": "cake_slice1",
+    "imagepath": "images/inventory/cake_slice1.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 193,
+    "itemname": "cake_slice2",
+    "imagepath": "images/inventory/cake_slice2.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 194,
+    "itemname": "cake_slice3",
+    "imagepath": "images/inventory/cake_slice3.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 195,
+    "itemname": "cake_slice4",
+    "imagepath": "images/inventory/cake_slice4.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 196,
+    "itemname": "cake_strawberry",
+    "imagepath": "images/inventory/cake_strawberry.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 197,
+    "itemname": "cake_wedding1",
+    "imagepath": "images/inventory/cake_wedding1.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 198,
+    "itemname": "cake_wedding2",
+    "imagepath": "images/inventory/cake_wedding2.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 199,
+    "itemname": "cake_wedding3",
+    "imagepath": "images/inventory/cake_wedding3.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 200,
+    "itemname": "cake_wedding4",
+    "imagepath": "images/inventory/cake_wedding4.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 201,
+    "itemname": "cake_wedding5",
+    "imagepath": "images/inventory/cake_wedding5.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 202,
+    "itemname": "cake1",
+    "imagepath": "images/inventory/cake1.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 203,
+    "itemname": "cake2",
+    "imagepath": "images/inventory/cake2.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 204,
+    "itemname": "cake3",
+    "imagepath": "images/inventory/cake3.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 205,
+    "itemname": "cake4",
+    "imagepath": "images/inventory/cake4.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 206,
+    "itemname": "cakepop",
+    "imagepath": "images/inventory/cakepop.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 207,
+    "itemname": "cakepop2",
+    "imagepath": "images/inventory/cakepop2.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 208,
+    "itemname": "cakepop3",
+    "imagepath": "images/inventory/cakepop3.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 209,
+    "itemname": "cakepop4",
+    "imagepath": "images/inventory/cakepop4.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 210,
+    "itemname": "can",
+    "imagepath": "images/inventory/can.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 211,
+    "itemname": "flipper",
+    "imagepath": "images/inventory/flipper.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 212,
+    "itemname": "makita",
+    "imagepath": "images/inventory/makita.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 213,
+    "itemname": "candy_gummies",
+    "imagepath": "images/inventory/candy_gummies.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 214,
+    "itemname": "candy_hard",
+    "imagepath": "images/inventory/candy_hard.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 215,
+    "itemname": "candy_psqs",
+    "imagepath": "images/inventory/candy_psqs.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 216,
+    "itemname": "candy_suckerb",
+    "imagepath": "images/inventory/candy_suckerb.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 217,
+    "itemname": "candy_suckerg",
+    "imagepath": "images/inventory/candy_suckerg.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 218,
+    "itemname": "candy_suckero",
+    "imagepath": "images/inventory/candy_suckero.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 219,
+    "itemname": "candy_suckerp",
+    "imagepath": "images/inventory/candy_suckerp.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 220,
+    "itemname": "candy_suckerr",
+    "imagepath": "images/inventory/candy_suckerr.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 221,
+    "itemname": "candy1",
+    "imagepath": "images/inventory/candy1.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 222,
+    "itemname": "candy2",
+    "imagepath": "images/inventory/candy2.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 223,
+    "itemname": "cannabis",
+    "imagepath": "images/inventory/cannabis.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 224,
+    "itemname": "cannibis",
+    "imagepath": "images/inventory/cannibis.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 225,
+    "itemname": "carbon",
+    "imagepath": "images/inventory/carbon.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 226,
+    "itemname": "carjack",
+    "imagepath": "images/inventory/carjack.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 227,
+    "itemname": "carkeys",
+    "imagepath": "images/inventory/carkeys.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 228,
+    "itemname": "carkeys2",
+    "imagepath": "images/inventory/carkeys2.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 229,
+    "itemname": "carrot",
+    "imagepath": "images/inventory/carrot.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 230,
+    "itemname": "carrot_crate",
+    "imagepath": "images/inventory/carrot_crate.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 231,
+    "itemname": "carrot_raw",
+    "imagepath": "images/inventory/carrot_raw.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 232,
+    "itemname": "carrot_seed",
+    "imagepath": "images/inventory/carrot_seed.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 233,
+    "itemname": "carstereo",
+    "imagepath": "images/inventory/carstereo.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 234,
+    "itemname": "casino_chips_100",
+    "imagepath": "images/inventory/casino_chips_100.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 235,
+    "itemname": "casino_chips_50",
+    "imagepath": "images/inventory/casino_chips_50.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 236,
+    "itemname": "casino_chips_500",
+    "imagepath": "images/inventory/casino_chips_500.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 237,
+    "itemname": "casino_chips_blu",
+    "imagepath": "images/inventory/casino_chips_blu.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 238,
+    "itemname": "casino_chips_red",
+    "imagepath": "images/inventory/casino_chips_red.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 239,
+    "itemname": "casino_chips_yel",
+    "imagepath": "images/inventory/casino_chips_yel.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 240,
+    "itemname": "cataccino",
+    "imagepath": "images/inventory/cataccino.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 241,
+    "itemname": "catcoffee",
+    "imagepath": "images/inventory/catcoffee.png",
+    "maxquantity": 50,
+    "weight": 0.3
+  },
+  {
+    "itemid": 242,
+    "itemname": "catcookie",
+    "imagepath": "images/inventory/catcookie.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 243,
+    "itemname": "catdonut",
+    "imagepath": "images/inventory/catdonut.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 244,
+    "itemname": "catlatte",
+    "imagepath": "images/inventory/catlatte.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 245,
+    "itemname": "catpizza",
+    "imagepath": "images/inventory/catpizza.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 246,
+    "itemname": "catrice",
+    "imagepath": "images/inventory/catrice.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 247,
+    "itemname": "cautionsign",
+    "imagepath": "images/inventory/cautionsign.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 248,
+    "itemname": "cavalacozida",
+    "imagepath": "images/inventory/cavalacozida.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 249,
+    "itemname": "cdplayer",
+    "imagepath": "images/inventory/cdplayer.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 250,
+    "itemname": "champagne",
+    "imagepath": "images/inventory/champagne.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 251,
+    "itemname": "cheddar",
+    "imagepath": "images/inventory/cheddar.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 252,
+    "itemname": "cheeseburger",
+    "imagepath": "images/inventory/cheeseburger.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 253,
+    "itemname": "cheesecake",
+    "imagepath": "images/inventory/cheesecake.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 254,
+    "itemname": "chemicalmixer",
+    "imagepath": "images/inventory/chemicalmixer.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 255,
+    "itemname": "chickenbreast",
+    "imagepath": "images/inventory/chickenbreast.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 256,
+    "itemname": "chickenburger",
+    "imagepath": "images/inventory/chickenburger.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 257,
+    "itemname": "chickenfaj",
+    "imagepath": "images/inventory/chickenfaj.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 258,
+    "itemname": "chickenpie",
+    "imagepath": "images/inventory/chickenpie.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 259,
+    "itemname": "chickensalad",
+    "imagepath": "images/inventory/chickensalad.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 260,
+    "itemname": "chickensandwich",
+    "imagepath": "images/inventory/chickensandwich.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 261,
+    "itemname": "chickenthighs",
+    "imagepath": "images/inventory/chickenthighs.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 262,
+    "itemname": "chickenthing",
+    "imagepath": "images/inventory/chickenthing.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 263,
+    "itemname": "chickhornstars",
+    "imagepath": "images/inventory/chickhornstars.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 264,
+    "itemname": "chillimince",
+    "imagepath": "images/inventory/chillimince.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 265,
+    "itemname": "chocolate",
+    "imagepath": "images/inventory/chocolate.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 266,
+    "itemname": "chocolate1",
+    "imagepath": "images/inventory/chocolate1.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 267,
+    "itemname": "chocolate10",
+    "imagepath": "images/inventory/chocolate10.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 268,
+    "itemname": "chocolate2",
+    "imagepath": "images/inventory/chocolate2.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 269,
+    "itemname": "chocolate3",
+    "imagepath": "images/inventory/chocolate3.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 270,
+    "itemname": "chocolate4",
+    "imagepath": "images/inventory/chocolate4.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 271,
+    "itemname": "chocolate5",
+    "imagepath": "images/inventory/chocolate5.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 272,
+    "itemname": "chocolate6",
+    "imagepath": "images/inventory/chocolate6.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 273,
+    "itemname": "chocolate7",
+    "imagepath": "images/inventory/chocolate7.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 274,
+    "itemname": "chocolate8",
+    "imagepath": "images/inventory/chocolate8.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 275,
+    "itemname": "chocolate9",
+    "imagepath": "images/inventory/chocolate9.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 276,
+    "itemname": "chocpudding",
+    "imagepath": "images/inventory/chocpudding.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 277,
+    "itemname": "churros",
+    "imagepath": "images/inventory/churros.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 278,
+    "itemname": "cigar",
+    "imagepath": "images/inventory/cigar.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 279,
+    "itemname": "cigar_estancia",
+    "imagepath": "images/inventory/cigar_estancia.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 280,
+    "itemname": "cigarette",
+    "imagepath": "images/inventory/cigarette.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 281,
+    "itemname": "cigarette2",
+    "imagepath": "images/inventory/cigarette2.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 282,
+    "itemname": "cigars_estancia",
+    "imagepath": "images/inventory/cigars_estancia.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 283,
+    "itemname": "cigars_homies",
+    "imagepath": "images/inventory/cigars_homies.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 284,
+    "itemname": "cigs_69",
+    "imagepath": "images/inventory/cigs_69.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 285,
+    "itemname": "cigsredwood1",
+    "imagepath": "images/inventory/cigsredwood1.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 286,
+    "itemname": "cigsredwood2",
+    "imagepath": "images/inventory/cigsredwood2.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 287,
+    "itemname": "cigsredwood3",
+    "imagepath": "images/inventory/cigsredwood3.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 288,
+    "itemname": "circuit_board",
+    "imagepath": "images/inventory/circuit_board.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 289,
+    "itemname": "cleaningkit",
+    "imagepath": "images/inventory/cleaningkit.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 290,
+    "itemname": "cloth",
+    "imagepath": "images/inventory/cloth.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 291,
+    "itemname": "cocaine",
+    "imagepath": "images/inventory/cocaine.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 292,
+    "itemname": "cocaineleaf",
+    "imagepath": "images/inventory/cocaineleaf.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 293,
+    "itemname": "cocaleaf",
+    "imagepath": "images/inventory/cocaleaf.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 294,
+    "itemname": "Coca-leaves",
+    "imagepath": "images/inventory/Coca-leaves.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 295,
+    "itemname": "codeine",
+    "imagepath": "images/inventory/codeine.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 296,
+    "itemname": "coffee_generic",
+    "imagepath": "images/inventory/coffee_generic.png",
+    "maxquantity": 50,
+    "weight": 0.3
+  },
+  {
+    "itemid": 297,
+    "itemname": "coffee_generic2",
+    "imagepath": "images/inventory/coffee_generic2.png",
+    "maxquantity": 50,
+    "weight": 0.3
+  },
+  {
+    "itemid": 298,
+    "itemname": "coffee_generic3",
+    "imagepath": "images/inventory/coffee_generic3.png",
+    "maxquantity": 50,
+    "weight": 0.3
+  },
+  {
+    "itemid": 299,
+    "itemname": "cokepackage",
+    "imagepath": "images/inventory/cokepackage.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 300,
+    "itemname": "coldnflubox",
+    "imagepath": "images/inventory/coldnflubox.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 301,
+    "itemname": "coldweiner",
+    "imagepath": "images/inventory/coldweiner.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 302,
+    "itemname": "colombiangold_leaf",
+    "imagepath": "images/inventory/colombiangold_leaf.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 303,
+    "itemname": "colombiangold_seed",
+    "imagepath": "images/inventory/colombiangold_seed.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 304,
+    "itemname": "colombiangold_trimmed_bud",
+    "imagepath": "images/inventory/colombiangold_trimmed_bud.png",
+    "maxquantity": 20,
+    "weight": 1
+  },
+  {
+    "itemid": 305,
+    "itemname": "colombiangold_untrimmed_bud",
+    "imagepath": "images/inventory/colombiangold_untrimmed_bud.png",
+    "maxquantity": 20,
+    "weight": 1
+  },
+  {
+    "itemid": 306,
+    "itemname": "cone_blueberry",
+    "imagepath": "images/inventory/cone_blueberry.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 307,
+    "itemname": "cone_chocolate2",
+    "imagepath": "images/inventory/cone_chocolate2.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 308,
+    "itemname": "cone_pistachio",
+    "imagepath": "images/inventory/cone_pistachio.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 309,
+    "itemname": "cone_strawberry",
+    "imagepath": "images/inventory/cone_strawberry.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 310,
+    "itemname": "cone_vanilla",
+    "imagepath": "images/inventory/cone_vanilla.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 311,
+    "itemname": "cookie",
+    "imagepath": "images/inventory/cookie.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 312,
+    "itemname": "cooking_chocolate",
+    "imagepath": "images/inventory/cooking_chocolate.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 313,
+    "itemname": "copper",
+    "imagepath": "images/inventory/copper.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 314,
+    "itemname": "copper_wires",
+    "imagepath": "images/inventory/copper_wires.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 315,
+    "itemname": "copperore",
+    "imagepath": "images/inventory/copperore.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 316,
+    "itemname": "corn",
+    "imagepath": "images/inventory/corn.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 317,
+    "itemname": "corn_crate",
+    "imagepath": "images/inventory/corn_crate.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 318,
+    "itemname": "corn_raw",
+    "imagepath": "images/inventory/corn_raw.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 319,
+    "itemname": "corn_seed",
+    "imagepath": "images/inventory/corn_seed.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 320,
+    "itemname": "cosmopolitan",
+    "imagepath": "images/inventory/cosmopolitan.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 321,
+    "itemname": "cougar_claw",
+    "imagepath": "images/inventory/cougar_claw.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 322,
+    "itemname": "cowpelt",
+    "imagepath": "images/inventory/cowpelt.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 323,
+    "itemname": "coyote_teeth",
+    "imagepath": "images/inventory/coyote_teeth.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 324,
+    "itemname": "coyotepelt",
+    "imagepath": "images/inventory/coyotepelt.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 325,
+    "itemname": "crack_baggy",
+    "imagepath": "images/inventory/crack_baggy.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 326,
+    "itemname": "crackmixingagent",
+    "imagepath": "images/inventory/crackmixingagent.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 327,
+    "itemname": "crutch",
+    "imagepath": "images/inventory/crutch.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 328,
+    "itemname": "cryptostick",
+    "imagepath": "images/inventory/cryptostick.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 329,
+    "itemname": "cubasil",
+    "imagepath": "images/inventory/cubasil.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 330,
+    "itemname": "cucumber",
+    "imagepath": "images/inventory/cucumber.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 331,
+    "itemname": "cucumber_crate",
+    "imagepath": "images/inventory/cucumber_crate.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 332,
+    "itemname": "cucumber_seed",
+    "imagepath": "images/inventory/cucumber_seed.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 333,
+    "itemname": "cupcake_blue",
+    "imagepath": "images/inventory/cupcake_blue.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 334,
+    "itemname": "cupcake_cherry",
+    "imagepath": "images/inventory/cupcake_cherry.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 335,
+    "itemname": "cupcake_chocolate",
+    "imagepath": "images/inventory/cupcake_chocolate.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 336,
+    "itemname": "cupcake_confetti",
+    "imagepath": "images/inventory/cupcake_confetti.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 337,
+    "itemname": "cupcake_creamcheese",
+    "imagepath": "images/inventory/cupcake_creamcheese.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 338,
+    "itemname": "cupcake_pistachio",
+    "imagepath": "images/inventory/cupcake_pistachio.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 339,
+    "itemname": "cupcake_rainbow",
+    "imagepath": "images/inventory/cupcake_rainbow.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 340,
+    "itemname": "cupcake_vanilla",
+    "imagepath": "images/inventory/cupcake_vanilla.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 341,
+    "itemname": "cutter",
+    "imagepath": "images/inventory/cutter.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 342,
+    "itemname": "Hortelã",
+    "imagepath": "images/inventory/daquirimint.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 343,
+    "itemname": "daquiristraw",
+    "imagepath": "images/inventory/daquiristraw.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 344,
+    "itemname": "dbl_hornburger",
+    "imagepath": "images/inventory/dbl_hornburger.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 345,
+    "itemname": "deer_horns",
+    "imagepath": "images/inventory/deer_horns.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 346,
+    "itemname": "dendrogyra_coral",
+    "imagepath": "images/inventory/dendrogyra_coral.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 347,
+    "itemname": "diamond",
+    "imagepath": "images/inventory/diamond.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 348,
+    "itemname": "diamond_earring",
+    "imagepath": "images/inventory/diamond_earring.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 349,
+    "itemname": "diamond_earring_silver",
+    "imagepath": "images/inventory/diamond_earring_silver.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 350,
+    "itemname": "diamond_necklace",
+    "imagepath": "images/inventory/diamond_necklace.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 351,
+    "itemname": "diamond_necklace_silver",
+    "imagepath": "images/inventory/diamond_necklace_silver.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 352,
+    "itemname": "diamond_ring",
+    "imagepath": "images/inventory/diamond_ring.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 353,
+    "itemname": "diamond_ring_silver",
+    "imagepath": "images/inventory/diamond_ring_silver.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 354,
+    "itemname": "dimsum1",
+    "imagepath": "images/inventory/dimsum1.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 355,
+    "itemname": "dimsum2",
+    "imagepath": "images/inventory/dimsum2.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 356,
+    "itemname": "dimsum3",
+    "imagepath": "images/inventory/dimsum3.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 357,
+    "itemname": "dimsum4",
+    "imagepath": "images/inventory/dimsum4.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 358,
+    "itemname": "dimsum5",
+    "imagepath": "images/inventory/dimsum5.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 359,
+    "itemname": "dimsum6",
+    "imagepath": "images/inventory/dimsum6.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 360,
+    "itemname": "distilledwater",
+    "imagepath": "images/inventory/distilledwater.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 361,
+    "itemname": "diving_gear",
+    "imagepath": "images/inventory/diving_gear.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 362,
+    "itemname": "dnatestkit",
+    "imagepath": "images/inventory/dnatestkit.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 363,
+    "itemname": "document",
+    "imagepath": "images/inventory/document.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 364,
+    "itemname": "donut1",
+    "imagepath": "images/inventory/donut1.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 365,
+    "itemname": "donut10",
+    "imagepath": "images/inventory/donut10.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 366,
+    "itemname": "donut11",
+    "imagepath": "images/inventory/donut11.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 367,
+    "itemname": "donut2",
+    "imagepath": "images/inventory/donut2.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 368,
+    "itemname": "donut3",
+    "imagepath": "images/inventory/donut3.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 369,
+    "itemname": "donut4",
+    "imagepath": "images/inventory/donut4.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 370,
+    "itemname": "donut5",
+    "imagepath": "images/inventory/donut5.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 371,
+    "itemname": "donut6",
+    "imagepath": "images/inventory/donut6.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 372,
+    "itemname": "donut7",
+    "imagepath": "images/inventory/donut7.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 373,
+    "itemname": "donut8",
+    "imagepath": "images/inventory/donut8.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 374,
+    "itemname": "donut9",
+    "imagepath": "images/inventory/donut9.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 375,
+    "itemname": "dosidos_leaf",
+    "imagepath": "images/inventory/dosidos_leaf.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 376,
+    "itemname": "dosidos_seed",
+    "imagepath": "images/inventory/dosidos_seed.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 377,
+    "itemname": "dosidos_trimmed_bud",
+    "imagepath": "images/inventory/dosidos_trimmed_bud.png",
+    "maxquantity": 20,
+    "weight": 1
+  },
+  {
+    "itemid": 378,
+    "itemname": "dosidos_untrimmed_bud",
+    "imagepath": "images/inventory/dosidos_untrimmed_bud.png",
+    "maxquantity": 20,
+    "weight": 1
+  },
+  {
+    "itemid": 379,
+    "itemname": "dramamine",
+    "imagepath": "images/inventory/dramamine.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 380,
+    "itemname": "drifttires",
+    "imagepath": "images/inventory/drifttires.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 381,
+    "itemname": "drimartini",
+    "imagepath": "images/inventory/drimartini.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 382,
+    "itemname": "drone",
+    "imagepath": "images/inventory/drone.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 383,
+    "itemname": "drug_lean",
+    "imagepath": "images/inventory/drug_lean.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 384,
+    "itemname": "drug_phone",
+    "imagepath": "images/inventory/drug_phone.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 385,
+    "itemname": "drugtestkit",
+    "imagepath": "images/inventory/drugtestkit.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 386,
+    "itemname": "e2_cpu",
+    "imagepath": "images/inventory/e2_cpu.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 387,
+    "itemname": "ecgonine",
+    "imagepath": "images/inventory/ecgonine.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 388,
+    "itemname": "ecola",
+    "imagepath": "images/inventory/ecola.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 389,
+    "itemname": "ecola_light",
+    "imagepath": "images/inventory/ecola_light.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 390,
+    "itemname": "egg",
+    "imagepath": "images/inventory/egg.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 391,
+    "itemname": "egg_crate",
+    "imagepath": "images/inventory/egg_crate.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 392,
+    "itemname": "eggbene",
+    "imagepath": "images/inventory/eggbene.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 393,
+    "itemname": "eggs",
+    "imagepath": "images/inventory/eggs.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 394,
+    "itemname": "ego_chaser",
+    "imagepath": "images/inventory/ego_chaser.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 395,
+    "itemname": "emerald",
+    "imagepath": "images/inventory/emerald.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 396,
+    "itemname": "emerald_earring",
+    "imagepath": "images/inventory/emerald_earring.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 397,
+    "itemname": "emerald_earring_silver",
+    "imagepath": "images/inventory/emerald_earring_silver.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 398,
+    "itemname": "emerald_necklace",
+    "imagepath": "images/inventory/emerald_necklace.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 399,
+    "itemname": "emerald_necklace_silver",
+    "imagepath": "images/inventory/emerald_necklace_silver.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 400,
+    "itemname": "emerald_ring",
+    "imagepath": "images/inventory/emerald_ring.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 401,
+    "itemname": "emerald_ring_silver",
+    "imagepath": "images/inventory/emerald_ring_silver.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 402,
+    "itemname": "emptychembottles",
+    "imagepath": "images/inventory/emptychembottles.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 403,
+    "itemname": "emptycrate",
+    "imagepath": "images/inventory/emptycrate.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 404,
+    "itemname": "emptydocuments",
+    "imagepath": "images/inventory/emptydocuments.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 405,
+    "itemname": "emptysack",
+    "imagepath": "images/inventory/emptysack.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 406,
+    "itemname": "enchi",
+    "imagepath": "images/inventory/enchi.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 407,
+    "itemname": "enchilada",
+    "imagepath": "images/inventory/enchilada.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 408,
+    "itemname": "ephedrine",
+    "imagepath": "images/inventory/ephedrine.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 409,
+    "itemname": "epi_pen",
+    "imagepath": "images/inventory/epi_pen.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 410,
+    "itemname": "evidence",
+    "imagepath": "images/inventory/evidence.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 411,
+    "itemname": "exhaust",
+    "imagepath": "images/inventory/exhaust.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 412,
+    "itemname": "explosive",
+    "imagepath": "images/inventory/explosive.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 413,
+    "itemname": "fakecrab",
+    "imagepath": "images/inventory/fakecrab.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 414,
+    "itemname": "farm_fertilizer",
+    "imagepath": "images/inventory/farm_fertilizer.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 415,
+    "itemname": "farmguide",
+    "imagepath": "images/inventory/farmguide.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 416,
+    "itemname": "farming_butter",
+    "imagepath": "images/inventory/farming_butter.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 417,
+    "itemname": "farming_chickenbreast",
+    "imagepath": "images/inventory/farming_chickenbreast.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 418,
+    "itemname": "farming_tomato",
+    "imagepath": "images/inventory/farming_tomato.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 419,
+    "itemname": "fingerprintreader",
+    "imagepath": "images/inventory/fingerprintreader.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 420,
+    "itemname": "firstaid",
+    "imagepath": "images/inventory/firstaid.png",
+    "maxquantity": 20,
+    "weight": 1
+  },
+  {
+    "itemid": 421,
+    "itemname": "fish_fillet",
+    "imagepath": "images/inventory/fish_fillet.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 422,
+    "itemname": "fishbait",
+    "imagepath": "images/inventory/fishbait.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 423,
+    "itemname": "fishbaitillegal",
+    "imagepath": "images/inventory/fishbaitillegal.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 424,
+    "itemname": "fishicebox",
+    "imagepath": "images/inventory/fishicebox.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 425,
+    "itemname": "fishing_net1",
+    "imagepath": "images/inventory/fishing_net1.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 426,
+    "itemname": "fishing_rod1",
+    "imagepath": "images/inventory/fishing_rod1.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 427,
+    "itemname": "fishing_rod2",
+    "imagepath": "images/inventory/fishing_rod2.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 428,
+    "itemname": "fishing_rod3",
+    "imagepath": "images/inventory/fishing_rod3.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 429,
+    "itemname": "fishing_rod4",
+    "imagepath": "images/inventory/fishing_rod4.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 430,
+    "itemname": "fishtacklebox",
+    "imagepath": "images/inventory/fishtacklebox.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 431,
+    "itemname": "fitbit",
+    "imagepath": "images/inventory/fitbit.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 432,
+    "itemname": "flour",
+    "imagepath": "images/inventory/flour.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 433,
+    "itemname": "formaldehyde",
+    "imagepath": "images/inventory/formaldehyde.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 434,
+    "itemname": "frenchfries_generic",
+    "imagepath": "images/inventory/frenchfries_generic.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 435,
+    "itemname": "frenchtoast",
+    "imagepath": "images/inventory/frenchtoast.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 436,
+    "itemname": "frenchtoast2",
+    "imagepath": "images/inventory/frenchtoast2.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 437,
+    "itemname": "friedpick",
+    "imagepath": "images/inventory/friedpick.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 438,
+    "itemname": "fries_gravy_cheese",
+    "imagepath": "images/inventory/fries_gravy_cheese.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 439,
+    "itemname": "fruit_smoothie",
+    "imagepath": "images/inventory/fruit_smoothie.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 440,
+    "itemname": "fruittart",
+    "imagepath": "images/inventory/fruittart.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 441,
+    "itemname": "fruittart2",
+    "imagepath": "images/inventory/fruittart2.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 442,
+    "itemname": "garden_pitcher",
+    "imagepath": "images/inventory/garden_pitcher.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 443,
+    "itemname": "garden_shovel",
+    "imagepath": "images/inventory/garden_shovel.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 444,
+    "itemname": "gasmask",
+    "imagepath": "images/inventory/gasmask.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 445,
+    "itemname": "gelato",
+    "imagepath": "images/inventory/gelato.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 446,
+    "itemname": "gelpills_blue",
+    "imagepath": "images/inventory/gelpills_blue.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 447,
+    "itemname": "gelpills_pink",
+    "imagepath": "images/inventory/gelpills_pink.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 448,
+    "itemname": "gelpills_red",
+    "imagepath": "images/inventory/gelpills_red.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 449,
+    "itemname": "gelpills_yellow",
+    "imagepath": "images/inventory/gelpills_yellow.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 450,
+    "itemname": "gin_and_tonic",
+    "imagepath": "images/inventory/gin_and_tonic.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 451,
+    "itemname": "glass",
+    "imagepath": "images/inventory/glass.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 452,
+    "itemname": "glucosemeter",
+    "imagepath": "images/inventory/glucosemeter.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 453,
+    "itemname": "gold_earring",
+    "imagepath": "images/inventory/gold_earring.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 454,
+    "itemname": "gold_ring",
+    "imagepath": "images/inventory/gold_ring.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 455,
+    "itemname": "goldchain",
+    "imagepath": "images/inventory/goldchain.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 456,
+    "itemname": "goldchain2",
+    "imagepath": "images/inventory/goldchain2.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 457,
+    "itemname": "goldingot",
+    "imagepath": "images/inventory/goldingot.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 458,
+    "itemname": "goldore",
+    "imagepath": "images/inventory/goldore.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 459,
+    "itemname": "goldpan",
+    "imagepath": "images/inventory/goldpan.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 460,
+    "itemname": "golfinho",
+    "imagepath": "images/inventory/golfinho.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 461,
+    "itemname": "gopro",
+    "imagepath": "images/inventory/gopro.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 462,
+    "itemname": "goprotablet",
+    "imagepath": "images/inventory/goprotablet.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 463,
+    "itemname": "gp_salad",
+    "imagepath": "images/inventory/gp_salad.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 464,
+    "itemname": "gp_soup_salad_sandwich_combo",
+    "imagepath": "images/inventory/gp_soup_salad_sandwich_combo.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 465,
+    "itemname": "gp_strawberry_shortcake",
+    "imagepath": "images/inventory/gp_strawberry_shortcake.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 466,
+    "itemname": "grape",
+    "imagepath": "images/inventory/grape.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 467,
+    "itemname": "greengelato_trimmed_bud",
+    "imagepath": "images/inventory/greengelato_trimmed_bud.png",
+    "maxquantity": 20,
+    "weight": 1
+  },
+  {
+    "itemid": 468,
+    "itemname": "grilled_wrap",
+    "imagepath": "images/inventory/grilled_wrap.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 469,
+    "itemname": "gsrtestkit",
+    "imagepath": "images/inventory/gsrtestkit.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 470,
+    "itemname": "ham",
+    "imagepath": "images/inventory/ham.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 471,
+    "itemname": "hamburger",
+    "imagepath": "images/inventory/hamburger.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 472,
+    "itemname": "hammer",
+    "imagepath": "images/inventory/hammer.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 473,
+    "itemname": "handcuffs",
+    "imagepath": "images/inventory/handcuffs.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 474,
+    "itemname": "harness",
+    "imagepath": "images/inventory/harness.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 475,
+    "itemname": "hashbrown",
+    "imagepath": "images/inventory/hashbrown.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 476,
+    "itemname": "headlights",
+    "imagepath": "images/inventory/headlights.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 477,
+    "itemname": "hiqualitysoil",
+    "imagepath": "images/inventory/hiqualitysoil.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 478,
+    "itemname": "hiqualnutrients",
+    "imagepath": "images/inventory/hiqualnutrients.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 479,
+    "itemname": "hood",
+    "imagepath": "images/inventory/hood.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 480,
+    "itemname": "horn",
+    "imagepath": "images/inventory/horn.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 481,
+    "itemname": "hornburger",
+    "imagepath": "images/inventory/hornburger.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 482,
+    "itemname": "hornsandwich",
+    "imagepath": "images/inventory/hornsandwich.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 483,
+    "itemname": "hotdog_chili",
+    "imagepath": "images/inventory/hotdog_chili.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 484,
+    "itemname": "hotdog_chillicheesedog",
+    "imagepath": "images/inventory/hotdog_chillicheesedog.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 485,
+    "itemname": "hotdog_deluxe",
+    "imagepath": "images/inventory/hotdog_deluxe.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 486,
+    "itemname": "hotdog_ketchup",
+    "imagepath": "images/inventory/hotdog_ketchup.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 487,
+    "itemname": "hotdog_mustard",
+    "imagepath": "images/inventory/hotdog_mustard.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 488,
+    "itemname": "hotdog_plain",
+    "imagepath": "images/inventory/hotdog_plain.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 489,
+    "itemname": "hotdog_taco",
+    "imagepath": "images/inventory/hotdog_taco.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 490,
+    "itemname": "hotdog_veggie",
+    "imagepath": "images/inventory/hotdog_veggie.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 491,
+    "itemname": "hotdogbun",
+    "imagepath": "images/inventory/hotdogbun.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 492,
+    "itemname": "hotdogmeat",
+    "imagepath": "images/inventory/hotdogmeat.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 493,
+    "itemname": "hunting_ammo",
+    "imagepath": "images/inventory/hunting_ammo.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 494,
+    "itemname": "hunting_rifle",
+    "imagepath": "images/inventory/hunting_rifle.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 495,
+    "itemname": "huntingbait",
+    "imagepath": "images/inventory/huntingbait.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 496,
+    "itemname": "ice_bag",
+    "imagepath": "images/inventory/ice_bag.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 497,
+    "itemname": "ice_cup",
+    "imagepath": "images/inventory/ice_cup.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 498,
+    "itemname": "ifaks",
+    "imagepath": "images/inventory/ifaks.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 499,
+    "itemname": "ifruit_black",
+    "imagepath": "images/inventory/ifruit_black.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 500,
+    "itemname": "ifruit_blue",
+    "imagepath": "images/inventory/ifruit_blue.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 501,
+    "itemname": "ifruit_gold",
+    "imagepath": "images/inventory/ifruit_gold.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 502,
+    "itemname": "ifruit_green",
+    "imagepath": "images/inventory/ifruit_green.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 503,
+    "itemname": "ifruit_lightpink",
+    "imagepath": "images/inventory/ifruit_lightpink.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 504,
+    "itemname": "ifruit_pink",
+    "imagepath": "images/inventory/ifruit_pink.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 505,
+    "itemname": "ifruit_red",
+    "imagepath": "images/inventory/ifruit_red.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 506,
+    "itemname": "ifruit_silver",
+    "imagepath": "images/inventory/ifruit_silver.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 507,
+    "itemname": "ifruit_teal",
+    "imagepath": "images/inventory/ifruit_teal.png",
+    "maxquantity": 50,
+    "weight": 0.3
+  },
+  {
+    "itemid": 508,
+    "itemname": "ifruit_white",
+    "imagepath": "images/inventory/ifruit_white.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 509,
+    "itemname": "Inhailer",
+    "imagepath": "images/inventory/Inhailer.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 510,
+    "itemname": "instantcoffee",
+    "imagepath": "images/inventory/instantcoffee.png",
+    "maxquantity": 50,
+    "weight": 0.3
+  },
+  {
+    "itemid": 511,
+    "itemname": "internals",
+    "imagepath": "images/inventory/internals.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 512,
+    "itemname": "ironingot",
+    "imagepath": "images/inventory/ironingot.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 513,
+    "itemname": "ironore",
+    "imagepath": "images/inventory/ironore.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 514,
+    "itemname": "jello",
+    "imagepath": "images/inventory/jello.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 515,
+    "itemname": "jerry_can",
+    "imagepath": "images/inventory/jerry_can.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 516,
+    "itemname": "joint",
+    "imagepath": "images/inventory/joint.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 517,
+    "itemname": "joint2",
+    "imagepath": "images/inventory/joint2.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 518,
+    "itemname": "juice_apple",
+    "imagepath": "images/inventory/juice_apple.png",
+    "maxquantity": 50,
+    "weight": 0.3
+  },
+  {
+    "itemid": 519,
+    "itemname": "juice_cranberry",
+    "imagepath": "images/inventory/juice_cranberry.png",
+    "maxquantity": 50,
+    "weight": 0.3
+  },
+  {
+    "itemid": 520,
+    "itemname": "juice_grape",
+    "imagepath": "images/inventory/juice_grape.png",
+    "maxquantity": 50,
+    "weight": 0.3
+  },
+  {
+    "itemid": 521,
+    "itemname": "juice_pineapple",
+    "imagepath": "images/inventory/juice_pineapple.png",
+    "maxquantity": 50,
+    "weight": 0.3
+  },
+  {
+    "itemid": 522,
+    "itemname": "junkdrink",
+    "imagepath": "images/inventory/junkdrink.png",
+    "maxquantity": 50,
+    "weight": 0.3
+  },
+  {
+    "itemid": 523,
+    "itemname": "junkdrink2",
+    "imagepath": "images/inventory/junkdrink2.png",
+    "maxquantity": 50,
+    "weight": 0.3
+  },
+  {
+    "itemid": 524,
+    "itemname": "kamikaze",
+    "imagepath": "images/inventory/kamikaze.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 525,
+    "itemname": "key1",
+    "imagepath": "images/inventory/key1.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 526,
+    "itemname": "key2",
+    "imagepath": "images/inventory/key2.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 527,
+    "itemname": "key3",
+    "imagepath": "images/inventory/key3.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 528,
+    "itemname": "lab",
+    "imagepath": "images/inventory/lab.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 529,
+    "itemname": "laptop",
+    "imagepath": "images/inventory/laptop.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 530,
+    "itemname": "laptop2",
+    "imagepath": "images/inventory/laptop2.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 531,
+    "itemname": "laptop3",
+    "imagepath": "images/inventory/laptop3.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 532,
+    "itemname": "laptop4",
+    "imagepath": "images/inventory/laptop4.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 533,
+    "itemname": "laxative",
+    "imagepath": "images/inventory/laxative.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 534,
+    "itemname": "lean",
+    "imagepath": "images/inventory/lean.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 535,
+    "itemname": "legbrace",
+    "imagepath": "images/inventory/legbrace.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 536,
+    "itemname": "lemon",
+    "imagepath": "images/inventory/lemon.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 537,
+    "itemname": "lemon_crate",
+    "imagepath": "images/inventory/lemon_crate.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 538,
+    "itemname": "lemonade",
+    "imagepath": "images/inventory/lemonade.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 539,
+    "itemname": "lemonskunk_leaf",
+    "imagepath": "images/inventory/lemonskunk_leaf.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 540,
+    "itemname": "lemonskunk_seed",
+    "imagepath": "images/inventory/lemonskunk_seed.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 541,
+    "itemname": "lemonskunk_trimmed_bud",
+    "imagepath": "images/inventory/lemonskunk_trimmed_bud.png",
+    "maxquantity": 20,
+    "weight": 1
+  },
+  {
+    "itemid": 542,
+    "itemname": "lemonskunk_untrimmed_bud",
+    "imagepath": "images/inventory/lemonskunk_untrimmed_bud.png",
+    "maxquantity": 20,
+    "weight": 1
+  },
+  {
+    "itemid": 543,
+    "itemname": "lettuce",
+    "imagepath": "images/inventory/lettuce.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 544,
+    "itemname": "lettuce_crate",
+    "imagepath": "images/inventory/lettuce_crate.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 545,
+    "itemname": "lettuce_seed",
+    "imagepath": "images/inventory/lettuce_seed.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 546,
+    "itemname": "lighter",
+    "imagepath": "images/inventory/lighter.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 547,
+    "itemname": "lighter2",
+    "imagepath": "images/inventory/lighter2.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 548,
+    "itemname": "lighting",
+    "imagepath": "images/inventory/lighting.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 549,
+    "itemname": "lime",
+    "imagepath": "images/inventory/lime.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 550,
+    "itemname": "lime_crate",
+    "imagepath": "images/inventory/lime_crate.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 551,
+    "itemname": "liquid_sulfur",
+    "imagepath": "images/inventory/liquid_sulfur.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 552,
+    "itemname": "lithium",
+    "imagepath": "images/inventory/lithium.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 553,
+    "itemname": "lithium_battery",
+    "imagepath": "images/inventory/lithium_battery.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 554,
+    "itemname": "lithiumbarrel",
+    "imagepath": "images/inventory/lithiumbarrel.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 555,
+    "itemname": "livery",
+    "imagepath": "images/inventory/livery.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 556,
+    "itemname": "loaded_burger",
+    "imagepath": "images/inventory/loaded_burger.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 557,
+    "itemname": "lockpick",
+    "imagepath": "images/inventory/lockpick.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 558,
+    "itemname": "longisland",
+    "imagepath": "images/inventory/longisland.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 559,
+    "itemname": "lowqualitysoil",
+    "imagepath": "images/inventory/lowqualitysoil.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 560,
+    "itemname": "lowqualnutrients",
+    "imagepath": "images/inventory/lowqualnutrients.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 561,
+    "itemname": "lsd",
+    "imagepath": "images/inventory/lsd.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 562,
+    "itemname": "lsdtab",
+    "imagepath": "images/inventory/lsdtab.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 563,
+    "itemname": "maccheese",
+    "imagepath": "images/inventory/maccheese.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 564,
+    "itemname": "Cogumelo",
+    "imagepath": "images/inventory/magic_mushroom.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 565,
+    "itemname": "maitai",
+    "imagepath": "images/inventory/maitai.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 566,
+    "itemname": "maize",
+    "imagepath": "images/inventory/maize.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 567,
+    "itemname": "maize_sack",
+    "imagepath": "images/inventory/maize_sack.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 568,
+    "itemname": "maize_seed",
+    "imagepath": "images/inventory/maize_seed.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 569,
+    "itemname": "manhattin",
+    "imagepath": "images/inventory/manhattin.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 570,
+    "itemname": "margarita",
+    "imagepath": "images/inventory/margarita.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 571,
+    "itemname": "margaritacuraco",
+    "imagepath": "images/inventory/margaritacuraco.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 572,
+    "itemname": "margaritastraw",
+    "imagepath": "images/inventory/margaritastraw.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 573,
+    "itemname": "markedbills",
+    "imagepath": "images/inventory/markedbills.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 574,
+    "itemname": "matcha",
+    "imagepath": "images/inventory/matcha.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 575,
+    "itemname": "meat",
+    "imagepath": "images/inventory/meat.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 576,
+    "itemname": "meat_boar",
+    "imagepath": "images/inventory/meat_boar.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 577,
+    "itemname": "meat_chicken",
+    "imagepath": "images/inventory/meat_chicken.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 578,
+    "itemname": "meat_chickenhawk",
+    "imagepath": "images/inventory/meat_chickenhawk.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 579,
+    "itemname": "meat_cormorant",
+    "imagepath": "images/inventory/meat_cormorant.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 580,
+    "itemname": "meat_cougar",
+    "imagepath": "images/inventory/meat_cougar.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 581,
+    "itemname": "meat_cow",
+    "imagepath": "images/inventory/meat_cow.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 582,
+    "itemname": "meat_coyote",
+    "imagepath": "images/inventory/meat_coyote.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 583,
+    "itemname": "meat_deer",
+    "imagepath": "images/inventory/meat_deer.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 584,
+    "itemname": "meat_dolphin",
+    "imagepath": "images/inventory/meat_dolphin.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 585,
+    "itemname": "meat_mtlion",
+    "imagepath": "images/inventory/meat_mtlion.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 586,
+    "itemname": "meat_pig",
+    "imagepath": "images/inventory/meat_pig.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 587,
+    "itemname": "meat_rabbit",
+    "imagepath": "images/inventory/meat_rabbit.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 588,
+    "itemname": "meat_rat",
+    "imagepath": "images/inventory/meat_rat.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 589,
+    "itemname": "meat_shark",
+    "imagepath": "images/inventory/meat_shark.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 590,
+    "itemname": "meat_stingray",
+    "imagepath": "images/inventory/meat_stingray.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 591,
+    "itemname": "meat_whale",
+    "imagepath": "images/inventory/meat_whale.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 592,
+    "itemname": "meatball",
+    "imagepath": "images/inventory/meatball.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 593,
+    "itemname": "mechanic_tools",
+    "imagepath": "images/inventory/mechanic_tools.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 594,
+    "itemname": "mechboard",
+    "imagepath": "images/inventory/mechboard.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 595,
+    "itemname": "medbag2",
+    "imagepath": "images/inventory/medbag2.png",
+    "maxquantity": 20,
+    "weight": 1
+  },
+  {
+    "itemid": 596,
+    "itemname": "medbag3",
+    "imagepath": "images/inventory/medbag3.png",
+    "maxquantity": 20,
+    "weight": 1
+  },
+  {
+    "itemid": 597,
+    "itemname": "medbag4",
+    "imagepath": "images/inventory/medbag4.png",
+    "maxquantity": 20,
+    "weight": 1
+  },
+  {
+    "itemid": 598,
+    "itemname": "medbox",
+    "imagepath": "images/inventory/medbox.png",
+    "maxquantity": 20,
+    "weight": 1
+  },
+  {
+    "itemid": 599,
+    "itemname": "medfruits",
+    "imagepath": "images/inventory/medfruits.png",
+    "maxquantity": 20,
+    "weight": 1
+  },
+  {
+    "itemid": 600,
+    "itemname": "medqualnutrients",
+    "imagepath": "images/inventory/medqualnutrients.png",
+    "maxquantity": 20,
+    "weight": 1
+  },
+  {
+    "itemid": 601,
+    "itemname": "megaphone",
+    "imagepath": "images/inventory/megaphone.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 602,
+    "itemname": "metalscrap",
+    "imagepath": "images/inventory/metalscrap.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 603,
+    "itemname": "meth",
+    "imagepath": "images/inventory/meth.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 604,
+    "itemname": "Bandeja de Metanfetamina",
+    "imagepath": "images/inventory/meth_tray.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 605,
+    "itemname": "Metilamina",
+    "imagepath": "images/inventory/methalmine2.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 606,
+    "itemname": "Barril de Metilamina",
+    "imagepath": "images/inventory/methylamine_barrel.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 607,
+    "itemname": "Munição de Metralhadora",
+    "imagepath": "images/inventory/mg_ammo.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 608,
+    "itemname": "Mimosa",
+    "imagepath": "images/inventory/mimosa.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 609,
+    "itemname": "Broca de Mineração",
+    "imagepath": "images/inventory/miningdrill.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 610,
+    "itemname": "Laser de Mineração",
+    "imagepath": "images/inventory/mininglaser.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 611,
+    "itemname": "Mini Rádio",
+    "imagepath": "images/inventory/miniradio.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 612,
+    "itemname": "Espelho",
+    "imagepath": "images/inventory/mirror.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 613,
+    "itemname": "Missô",
+    "imagepath": "images/inventory/miso.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 614,
+    "itemname": "Mochi Marrom",
+    "imagepath": "images/inventory/mochameow.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 615,
+    "itemname": "Mojito",
+    "imagepath": "images/inventory/mojito.png",
+    "maxquantity": 50,
+    "weight": 0.3
+  },
+  {
+    "itemid": 616,
+    "itemname": "Mozzarella",
+    "imagepath": "images/inventory/mozz.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 617,
+    "itemname": "Sr. Framboesa",
+    "imagepath": "images/inventory/mr_raspberry.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 618,
+    "itemname": "Ressonância Magnética",
+    "imagepath": "images/inventory/mri.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 619,
+    "itemname": "Prato de Nachos",
+    "imagepath": "images/inventory/nacho_plate.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 620,
+    "itemname": "Nachos",
+    "imagepath": "images/inventory/nachos.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 621,
+    "itemname": "Colar Cervical",
+    "imagepath": "images/inventory/neckbrace.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 622,
+    "itemname": "Negroni",
+    "imagepath": "images/inventory/negroni.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 623,
+    "itemname": "Jornal",
+    "imagepath": "images/inventory/newspaper.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 624,
+    "itemname": "Jornal",
+    "imagepath": "images/inventory/newspaper2.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 625,
+    "itemname": "Nitrogênio",
+    "imagepath": "images/inventory/nitrogen.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 626,
+    "itemname": "Óxido Nitroso",
+    "imagepath": "images/inventory/nitrous.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 627,
+    "itemname": "Tigela de Macarrão",
+    "imagepath": "images/inventory/noodlebowl.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 628,
+    "itemname": "noodlecup",
+    "imagepath": "images/inventory/noodlecup.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 629,
+    "itemname": "noodles",
+    "imagepath": "images/inventory/noodles.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 630,
+    "itemname": "nori",
+    "imagepath": "images/inventory/nori.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 631,
+    "itemname": "northernlights_leaf",
+    "imagepath": "images/inventory/northernlights_leaf.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 632,
+    "itemname": "northernlights_seed",
+    "imagepath": "images/inventory/northernlights_seed.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 633,
+    "itemname": "northernlights_trimmed_bud",
+    "imagepath": "images/inventory/northernlights_trimmed_bud.png",
+    "maxquantity": 20,
+    "weight": 1
+  },
+  {
+    "itemid": 634,
+    "itemname": "northernlights_untrimmed_bud",
+    "imagepath": "images/inventory/northernlights_untrimmed_bud.png",
+    "maxquantity": 20,
+    "weight": 1
+  },
+  {
+    "itemid": 635,
+    "itemname": "nvg",
+    "imagepath": "images/inventory/nvg.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 636,
+    "itemname": "o_anchovy",
+    "imagepath": "images/inventory/o_anchovy.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 637,
+    "itemname": "o_codfish",
+    "imagepath": "images/inventory/o_codfish.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 638,
+    "itemname": "o_giant_seabass",
+    "imagepath": "images/inventory/o_giant_seabass.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 639,
+    "itemname": "o_grouper",
+    "imagepath": "images/inventory/o_grouper.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 640,
+    "itemname": "o_kingcrab",
+    "imagepath": "images/inventory/o_kingcrab.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 641,
+    "itemname": "o_lobster",
+    "imagepath": "images/inventory/o_lobster.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 642,
+    "itemname": "o_mackerel",
+    "imagepath": "images/inventory/o_mackerel.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 643,
+    "itemname": "o_mahi_mahi",
+    "imagepath": "images/inventory/o_mahi_mahi.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 644,
+    "itemname": "o_pacific_halibut",
+    "imagepath": "images/inventory/o_pacific_halibut.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 645,
+    "itemname": "o_pacific_sardine",
+    "imagepath": "images/inventory/o_pacific_sardine.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 646,
+    "itemname": "o_rainbow_trout",
+    "imagepath": "images/inventory/o_rainbow_trout.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 647,
+    "itemname": "o_red_snapper",
+    "imagepath": "images/inventory/o_red_snapper.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 648,
+    "itemname": "o_redfish",
+    "imagepath": "images/inventory/o_redfish.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 649,
+    "itemname": "o_spot_prawn",
+    "imagepath": "images/inventory/o_spot_prawn.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 650,
+    "itemname": "o_stingray",
+    "imagepath": "images/inventory/o_stingray.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 651,
+    "itemname": "o_white_seabass",
+    "imagepath": "images/inventory/o_white_seabass.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 652,
+    "itemname": "o_yellowfin_tuna",
+    "imagepath": "images/inventory/o_yellowfin_tuna.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 653,
+    "itemname": "ogkush_leaf",
+    "imagepath": "images/inventory/ogkush_leaf.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 654,
+    "itemname": "ogkush_seed",
+    "imagepath": "images/inventory/ogkush_seed.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 655,
+    "itemname": "ogkush_trimmed_bud",
+    "imagepath": "images/inventory/ogkush_trimmed_bud.png",
+    "maxquantity": 20,
+    "weight": 1
+  },
+  {
+    "itemid": 656,
+    "itemname": "ogkush_untrimmed_bud",
+    "imagepath": "images/inventory/ogkush_untrimmed_bud.png",
+    "maxquantity": 20,
+    "weight": 1
+  },
+  {
+    "itemid": 657,
+    "itemname": "oldfashioned",
+    "imagepath": "images/inventory/oldfashioned.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 658,
+    "itemname": "olives",
+    "imagepath": "images/inventory/olives.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 659,
+    "itemname": "orange",
+    "imagepath": "images/inventory/orange.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 660,
+    "itemname": "orange_crate",
+    "imagepath": "images/inventory/orange_crate.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 661,
+    "itemname": "orangotang",
+    "imagepath": "images/inventory/orangotang.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 662,
+    "itemname": "oxy",
+    "imagepath": "images/inventory/oxy.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 663,
+    "itemname": "oxygen",
+    "imagepath": "images/inventory/oxygen.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 664,
+    "itemname": "painkillers",
+    "imagepath": "images/inventory/painkillers.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 665,
+    "itemname": "parachute",
+    "imagepath": "images/inventory/parachute.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 666,
+    "itemname": "pasta",
+    "imagepath": "images/inventory/pasta.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 667,
+    "itemname": "pawcakes",
+    "imagepath": "images/inventory/pawcakes.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 668,
+    "itemname": "peach",
+    "imagepath": "images/inventory/peach.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 669,
+    "itemname": "peach_crate",
+    "imagepath": "images/inventory/peach_crate.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 670,
+    "itemname": "peixegato",
+    "imagepath": "images/inventory/peixegato.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 671,
+    "itemname": "peptobismol",
+    "imagepath": "images/inventory/peptobismol.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 672,
+    "itemname": "peyote_button",
+    "imagepath": "images/inventory/peyote_button.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 673,
+    "itemname": "peyote_seed",
+    "imagepath": "images/inventory/peyote_seed.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 674,
+    "itemname": "phatchips_bigcheese",
+    "imagepath": "images/inventory/phatchips_bigcheese.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 675,
+    "itemname": "phatchips_habernero",
+    "imagepath": "images/inventory/phatchips_habernero.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 676,
+    "itemname": "phatchips_stickyribs",
+    "imagepath": "images/inventory/phatchips_stickyribs.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 677,
+    "itemname": "pickaxe",
+    "imagepath": "images/inventory/pickaxe.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 678,
+    "itemname": "pickle",
+    "imagepath": "images/inventory/pickle.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 679,
+    "itemname": "pickleburger",
+    "imagepath": "images/inventory/pickleburger.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 680,
+    "itemname": "piecrust",
+    "imagepath": "images/inventory/piecrust.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 681,
+    "itemname": "pigpelt",
+    "imagepath": "images/inventory/pigpelt.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 682,
+    "itemname": "pills_extasy",
+    "imagepath": "images/inventory/pills_extasy.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 683,
+    "itemname": "pills_fentanyl",
+    "imagepath": "images/inventory/pills_fentanyl.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 684,
+    "itemname": "pinacolada",
+    "imagepath": "images/inventory/pinacolada.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 685,
+    "itemname": "pineapple",
+    "imagepath": "images/inventory/pineapple.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 686,
+    "itemname": "pineapple_crate",
+    "imagepath": "images/inventory/pineapple_crate.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 687,
+    "itemname": "pineapple_seed",
+    "imagepath": "images/inventory/pineapple_seed.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 688,
+    "itemname": "pistol_ammo",
+    "imagepath": "images/inventory/pistol_ammo.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 689,
+    "itemname": "pistol_extendedclip",
+    "imagepath": "images/inventory/pistol_extendedclip.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 690,
+    "itemname": "pistol_suppressor",
+    "imagepath": "images/inventory/pistol_suppressor.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 691,
+    "itemname": "pizza_cannabisvegetariana",
+    "imagepath": "images/inventory/pizza_cannabisvegetariana.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 692,
+    "itemname": "pizza_capricciosa",
+    "imagepath": "images/inventory/pizza_capricciosa.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 693,
+    "itemname": "pizza_diavola",
+    "imagepath": "images/inventory/pizza_diavola.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 694,
+    "itemname": "pizza_margherita",
+    "imagepath": "images/inventory/pizza_margherita.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 695,
+    "itemname": "pizza_marinara",
+    "imagepath": "images/inventory/pizza_marinara.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 696,
+    "itemname": "pizza_proscuttio",
+    "imagepath": "images/inventory/pizza_proscuttio.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 697,
+    "itemname": "pizza_vegetariana",
+    "imagepath": "images/inventory/pizza_vegetariana.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 698,
+    "itemname": "pizzabox",
+    "imagepath": "images/inventory/pizzabox.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 699,
+    "itemname": "pizzabox2",
+    "imagepath": "images/inventory/pizzabox2.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 700,
+    "itemname": "pizzadough",
+    "imagepath": "images/inventory/pizzadough.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 701,
+    "itemname": "plantpot",
+    "imagepath": "images/inventory/plantpot.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 702,
+    "itemname": "plastic",
+    "imagepath": "images/inventory/plastic.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 703,
+    "itemname": "plasticbag",
+    "imagepath": "images/inventory/plasticbag.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 704,
+    "itemname": "polbag",
+    "imagepath": "images/inventory/polbag.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 705,
+    "itemname": "police_stormram",
+    "imagepath": "images/inventory/police_stormram.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 706,
+    "itemname": "poppy",
+    "imagepath": "images/inventory/poppy.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 707,
+    "itemname": "portablecopier",
+    "imagepath": "images/inventory/portablecopier.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 708,
+    "itemname": "potato",
+    "imagepath": "images/inventory/potato.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 709,
+    "itemname": "potato_chips",
+    "imagepath": "images/inventory/potato_chips.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 710,
+    "itemname": "potato_raw",
+    "imagepath": "images/inventory/potato_raw.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 711,
+    "itemname": "potato_sack",
+    "imagepath": "images/inventory/potato_sack.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 712,
+    "itemname": "potato_seed",
+    "imagepath": "images/inventory/potato_seed.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 713,
+    "itemname": "powerbank",
+    "imagepath": "images/inventory/powerbank.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 714,
+    "itemname": "printed_image",
+    "imagepath": "images/inventory/printed_image.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 715,
+    "itemname": "printer_document",
+    "imagepath": "images/inventory/printer_document.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 716,
+    "itemname": "pseudophederine",
+    "imagepath": "images/inventory/pseudophederine.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 717,
+    "itemname": "pulledpork_sliders",
+    "imagepath": "images/inventory/pulledpork_sliders.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 718,
+    "itemname": "pulledporksand",
+    "imagepath": "images/inventory/pulledporksand.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 719,
+    "itemname": "purrito",
+    "imagepath": "images/inventory/purrito.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 720,
+    "itemname": "pwasher",
+    "imagepath": "images/inventory/pwasher.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 721,
+    "itemname": "quantum_cpu",
+    "imagepath": "images/inventory/quantum_cpu.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 722,
+    "itemname": "r_black_crappie",
+    "imagepath": "images/inventory/r_black_crappie.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 723,
+    "itemname": "r_bluegill",
+    "imagepath": "images/inventory/r_bluegill.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 724,
+    "itemname": "r_brown_trout",
+    "imagepath": "images/inventory/r_brown_trout.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 725,
+    "itemname": "r_catfish",
+    "imagepath": "images/inventory/r_catfish.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 726,
+    "itemname": "r_chinook_salmon",
+    "imagepath": "images/inventory/r_chinook_salmon.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 727,
+    "itemname": "r_coho_salmon",
+    "imagepath": "images/inventory/r_coho_salmon.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 728,
+    "itemname": "r_common_carp",
+    "imagepath": "images/inventory/r_common_carp.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 729,
+    "itemname": "r_cutthroat_trout",
+    "imagepath": "images/inventory/r_cutthroat_trout.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 730,
+    "itemname": "r_largemouth_bass",
+    "imagepath": "images/inventory/r_largemouth_bass.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 731,
+    "itemname": "r_perch",
+    "imagepath": "images/inventory/r_perch.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 732,
+    "itemname": "r_striped_bass",
+    "imagepath": "images/inventory/r_striped_bass.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 733,
+    "itemname": "r_talapia",
+    "imagepath": "images/inventory/r_talapia.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 734,
+    "itemname": "r_white_sturgeon",
+    "imagepath": "images/inventory/r_white_sturgeon.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 735,
+    "itemname": "rabbit_foot",
+    "imagepath": "images/inventory/rabbit_foot.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 736,
+    "itemname": "rabbitfur",
+    "imagepath": "images/inventory/rabbitfur.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 737,
+    "itemname": "radio",
+    "imagepath": "images/inventory/radio.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 738,
+    "itemname": "radioscanner",
+    "imagepath": "images/inventory/radioscanner.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 739,
+    "itemname": "rainbowbelts_leaf",
+    "imagepath": "images/inventory/rainbowbelts_leaf.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 740,
+    "itemname": "rainbowbelts_seed",
+    "imagepath": "images/inventory/rainbowbelts_seed.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 741,
+    "itemname": "rainbowbelts_trimmed_bud",
+    "imagepath": "images/inventory/rainbowbelts_trimmed_bud.png",
+    "maxquantity": 20,
+    "weight": 1
+  },
+  {
+    "itemid": 742,
+    "itemname": "rainbowbelts_untrimmed_bud",
+    "imagepath": "images/inventory/rainbowbelts_untrimmed_bud.png",
+    "maxquantity": 20,
+    "weight": 1
+  },
+  {
+    "itemid": 743,
+    "itemname": "raine",
+    "imagepath": "images/inventory/raine.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 744,
+    "itemname": "ramen",
+    "imagepath": "images/inventory/ramen.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 745,
+    "itemname": "ranchwrap",
+    "imagepath": "images/inventory/ranchwrap.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 746,
+    "itemname": "rawbacon",
+    "imagepath": "images/inventory/rawbacon.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 747,
+    "itemname": "rawhotdog",
+    "imagepath": "images/inventory/rawhotdog.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 748,
+    "itemname": "rawsausage",
+    "imagepath": "images/inventory/rawsausage.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 749,
+    "itemname": "reciept1",
+    "imagepath": "images/inventory/reciept1.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 750,
+    "itemname": "reciept2",
+    "imagepath": "images/inventory/reciept2.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 751,
+    "itemname": "red_sulfur",
+    "imagepath": "images/inventory/red_sulfur.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 752,
+    "itemname": "redsulfurbarrel",
+    "imagepath": "images/inventory/redsulfurbarrel.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 753,
+    "itemname": "repairkit",
+    "imagepath": "images/inventory/repairkit.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 754,
+    "itemname": "ribs",
+    "imagepath": "images/inventory/ribs.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 755,
+    "itemname": "rice",
+    "imagepath": "images/inventory/rice.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 756,
+    "itemname": "rifle_ammo",
+    "imagepath": "images/inventory/rifle_ammo.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 757,
+    "itemname": "rifle_drummag",
+    "imagepath": "images/inventory/rifle_drummag.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 758,
+    "itemname": "rim",
+    "imagepath": "images/inventory/rim.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 759,
+    "itemname": "rims",
+    "imagepath": "images/inventory/rims.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 760,
+    "itemname": "roadblock",
+    "imagepath": "images/inventory/roadblock.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 761,
+    "itemname": "rolex",
+    "imagepath": "images/inventory/rolex.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 762,
+    "itemname": "rollcage",
+    "imagepath": "images/inventory/rollcage.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 763,
+    "itemname": "rolling_paper",
+    "imagepath": "images/inventory/rolling_paper.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 764,
+    "itemname": "rolling_paper2",
+    "imagepath": "images/inventory/rolling_paper2.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 765,
+    "itemname": "roof",
+    "imagepath": "images/inventory/roof.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 766,
+    "itemname": "rope",
+    "imagepath": "images/inventory/rope.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 767,
+    "itemname": "rottenapple",
+    "imagepath": "images/inventory/rottenapple.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 768,
+    "itemname": "rubber",
+    "imagepath": "images/inventory/rubber.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 769,
+    "itemname": "ruby",
+    "imagepath": "images/inventory/ruby.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 770,
+    "itemname": "ruby_earring",
+    "imagepath": "images/inventory/ruby_earring.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 771,
+    "itemname": "ruby_earring_silver",
+    "imagepath": "images/inventory/ruby_earring_silver.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 772,
+    "itemname": "ruby_necklace",
+    "imagepath": "images/inventory/ruby_necklace.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 773,
+    "itemname": "ruby_necklace_silver",
+    "imagepath": "images/inventory/ruby_necklace_silver.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 774,
+    "itemname": "ruby_ring",
+    "imagepath": "images/inventory/ruby_ring.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 775,
+    "itemname": "ruby_ring_silver",
+    "imagepath": "images/inventory/ruby_ring_silver.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 776,
+    "itemname": "rum_and_cola",
+    "imagepath": "images/inventory/rum_and_cola.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 777,
+    "itemname": "sacid",
+    "imagepath": "images/inventory/sacid.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 778,
+    "itemname": "sake",
+    "imagepath": "images/inventory/sake.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 779,
+    "itemname": "salami",
+    "imagepath": "images/inventory/salami.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 780,
+    "itemname": "salinebag",
+    "imagepath": "images/inventory/salinebag.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 781,
+    "itemname": "sandwich_bacon",
+    "imagepath": "images/inventory/sandwich_bacon.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 782,
+    "itemname": "sandwich_blt",
+    "imagepath": "images/inventory/sandwich_blt.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 783,
+    "itemname": "sandwich_eggsalad",
+    "imagepath": "images/inventory/sandwich_eggsalad.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 784,
+    "itemname": "sandwich_grilledcheese",
+    "imagepath": "images/inventory/sandwich_grilledcheese.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 785,
+    "itemname": "sandwich_grilledcheese2",
+    "imagepath": "images/inventory/sandwich_grilledcheese2.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 786,
+    "itemname": "sandwich_ham",
+    "imagepath": "images/inventory/sandwich_ham.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 787,
+    "itemname": "sandwich_hamcheese",
+    "imagepath": "images/inventory/sandwich_hamcheese.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 788,
+    "itemname": "sandwich_moldy",
+    "imagepath": "images/inventory/sandwich_moldy.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 789,
+    "itemname": "sandwich_ruben",
+    "imagepath": "images/inventory/sandwich_ruben.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 790,
+    "itemname": "sandwich_sub",
+    "imagepath": "images/inventory/sandwich_sub.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 791,
+    "itemname": "sandwich_tuna",
+    "imagepath": "images/inventory/sandwich_tuna.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 792,
+    "itemname": "sangria",
+    "imagepath": "images/inventory/sangria.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 793,
+    "itemname": "sapphire",
+    "imagepath": "images/inventory/sapphire.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 794,
+    "itemname": "sapphire_earring",
+    "imagepath": "images/inventory/sapphire_earring.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 795,
+    "itemname": "sapphire_earring_silver",
+    "imagepath": "images/inventory/sapphire_earring_silver.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 796,
+    "itemname": "sapphire_necklace",
+    "imagepath": "images/inventory/sapphire_necklace.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 797,
+    "itemname": "sapphire_necklace_silver",
+    "imagepath": "images/inventory/sapphire_necklace_silver.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 798,
+    "itemname": "sapphire_ring",
+    "imagepath": "images/inventory/sapphire_ring.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 799,
+    "itemname": "sapphire_ring_silver",
+    "imagepath": "images/inventory/sapphire_ring_silver.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 800,
+    "itemname": "sauce",
+    "imagepath": "images/inventory/sauce.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 801,
+    "itemname": "sausage",
+    "imagepath": "images/inventory/sausage.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 802,
+    "itemname": "sausageeggs",
+    "imagepath": "images/inventory/sausageeggs.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 803,
+    "itemname": "screwdriver",
+    "imagepath": "images/inventory/screwdriver.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 804,
+    "itemname": "seafood_beerbatterfish",
+    "imagepath": "images/inventory/seafood_beerbatterfish.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 805,
+    "itemname": "seafood_calamari",
+    "imagepath": "images/inventory/seafood_calamari.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 806,
+    "itemname": "seafood_calamari2",
+    "imagepath": "images/inventory/seafood_calamari2.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 807,
+    "itemname": "seafood_crabcakes",
+    "imagepath": "images/inventory/seafood_crabcakes.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 808,
+    "itemname": "seafood_grilledfish",
+    "imagepath": "images/inventory/seafood_grilledfish.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 809,
+    "itemname": "seafood_grilledsalmon",
+    "imagepath": "images/inventory/seafood_grilledsalmon.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 810,
+    "itemname": "seafood_kingcrab",
+    "imagepath": "images/inventory/seafood_kingcrab.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 811,
+    "itemname": "seafood_lobster",
+    "imagepath": "images/inventory/seafood_lobster.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 812,
+    "itemname": "seafood_lobster2",
+    "imagepath": "images/inventory/seafood_lobster2.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 813,
+    "itemname": "seafood_paella",
+    "imagepath": "images/inventory/seafood_paella.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 814,
+    "itemname": "seafood_pescatore",
+    "imagepath": "images/inventory/seafood_pescatore.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 815,
+    "itemname": "seafood_salmon",
+    "imagepath": "images/inventory/seafood_salmon.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 816,
+    "itemname": "seafood_sardines",
+    "imagepath": "images/inventory/seafood_sardines.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 817,
+    "itemname": "seafood_seabass",
+    "imagepath": "images/inventory/seafood_seabass.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 818,
+    "itemname": "seafood_shrimpcocktail",
+    "imagepath": "images/inventory/seafood_shrimpcocktail.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 819,
+    "itemname": "seafood_shrimppasta",
+    "imagepath": "images/inventory/seafood_shrimppasta.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 820,
+    "itemname": "seat",
+    "imagepath": "images/inventory/seat.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 821,
+    "itemname": "server_drive",
+    "imagepath": "images/inventory/server_drive.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 822,
+    "itemname": "shirleytemple",
+    "imagepath": "images/inventory/shirleytemple.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 823,
+    "itemname": "shonen",
+    "imagepath": "images/inventory/shonen.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 824,
+    "itemname": "shooter_applepie",
+    "imagepath": "images/inventory/shooter_applepie.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 825,
+    "itemname": "shooter_b52",
+    "imagepath": "images/inventory/shooter_b52.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 826,
+    "itemname": "shooter_ccookie",
+    "imagepath": "images/inventory/shooter_ccookie.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 827,
+    "itemname": "shooter_coffee_liqure",
+    "imagepath": "images/inventory/shooter_coffee_liqure.png",
+    "maxquantity": 50,
+    "weight": 0.3
+  },
+  {
+    "itemid": 828,
+    "itemname": "shooter_electricjello_blue",
+    "imagepath": "images/inventory/shooter_electricjello_blue.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 829,
+    "itemname": "shooter_electricjello_lime",
+    "imagepath": "images/inventory/shooter_electricjello_lime.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 830,
+    "itemname": "shooter_electricjello_red",
+    "imagepath": "images/inventory/shooter_electricjello_red.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 831,
+    "itemname": "shooter_irishflag",
+    "imagepath": "images/inventory/shooter_irishflag.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 832,
+    "itemname": "shooter_sbullet",
+    "imagepath": "images/inventory/shooter_sbullet.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 833,
+    "itemname": "shooter_tequila",
+    "imagepath": "images/inventory/shooter_tequila.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 834,
+    "itemname": "shooter_voodoo",
+    "imagepath": "images/inventory/shooter_voodoo.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 835,
+    "itemname": "shooter_whiskey",
+    "imagepath": "images/inventory/shooter_whiskey.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 836,
+    "itemname": "shotgun_ammo",
+    "imagepath": "images/inventory/shotgun_ammo.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 837,
+    "itemname": "shreddedpork",
+    "imagepath": "images/inventory/shreddedpork.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 838,
+    "itemname": "silver_earring",
+    "imagepath": "images/inventory/silver_earring.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 839,
+    "itemname": "silver_ring",
+    "imagepath": "images/inventory/silver_ring.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 840,
+    "itemname": "silverchain",
+    "imagepath": "images/inventory/silverchain.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 841,
+    "itemname": "silveringot",
+    "imagepath": "images/inventory/silveringot.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 842,
+    "itemname": "silverore",
+    "imagepath": "images/inventory/silverore.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 843,
+    "itemname": "simcard",
+    "imagepath": "images/inventory/simcard.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 844,
+    "itemname": "singaporesling",
+    "imagepath": "images/inventory/singaporesling.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 845,
+    "itemname": "skateboard",
+    "imagepath": "images/inventory/skateboard.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 846,
+    "itemname": "skin_boar",
+    "imagepath": "images/inventory/skin_boar.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 847,
+    "itemname": "skin_cougar",
+    "imagepath": "images/inventory/skin_cougar.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 848,
+    "itemname": "skin_cow",
+    "imagepath": "images/inventory/skin_cow.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 849,
+    "itemname": "skin_coyote",
+    "imagepath": "images/inventory/skin_coyote.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 850,
+    "itemname": "skin_deer",
+    "imagepath": "images/inventory/skin_deer.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 851,
+    "itemname": "skin_dolphin",
+    "imagepath": "images/inventory/skin_dolphin.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 852,
+    "itemname": "skin_mtlion",
+    "imagepath": "images/inventory/skin_mtlion.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 853,
+    "itemname": "skin_pig",
+    "imagepath": "images/inventory/skin_pig.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 854,
+    "itemname": "skin_rabbit",
+    "imagepath": "images/inventory/skin_rabbit.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 855,
+    "itemname": "skin_rat",
+    "imagepath": "images/inventory/skin_rat.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 856,
+    "itemname": "skin_sasquatch",
+    "imagepath": "images/inventory/skin_sasquatch.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 857,
+    "itemname": "skin_shark",
+    "imagepath": "images/inventory/skin_shark.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 858,
+    "itemname": "skin_stingray",
+    "imagepath": "images/inventory/skin_stingray.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 859,
+    "itemname": "skin_whale",
+    "imagepath": "images/inventory/skin_whale.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 860,
+    "itemname": "skirts",
+    "imagepath": "images/inventory/skirts.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 861,
+    "itemname": "slicedapple",
+    "imagepath": "images/inventory/slicedapple.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 862,
+    "itemname": "slicedtomato",
+    "imagepath": "images/inventory/slicedtomato.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 863,
+    "itemname": "slider",
+    "imagepath": "images/inventory/slider.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 864,
+    "itemname": "small-scale",
+    "imagepath": "images/inventory/small-scale.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 865,
+    "itemname": "Munição de Metralhadora",
+    "imagepath": "images/inventory/smg_ammo.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 866,
+    "itemname": "smg_flashlight",
+    "imagepath": "images/inventory/smg_flashlight.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 867,
+    "itemname": "smg_scope",
+    "imagepath": "images/inventory/smg_scope.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 868,
+    "itemname": "snikkel_candy",
+    "imagepath": "images/inventory/snikkel_candy.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 869,
+    "itemname": "snspistol_part_1",
+    "imagepath": "images/inventory/snspistol_part_1.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 870,
+    "itemname": "snspistol_part_2",
+    "imagepath": "images/inventory/snspistol_part_2.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 871,
+    "itemname": "snspistol_part_3",
+    "imagepath": "images/inventory/snspistol_part_3.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 872,
+    "itemname": "soda_fruit_punch",
+    "imagepath": "images/inventory/soda_fruit_punch.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 873,
+    "itemname": "soda_lime",
+    "imagepath": "images/inventory/soda_lime.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 874,
+    "itemname": "soda_mandarin",
+    "imagepath": "images/inventory/soda_mandarin.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 875,
+    "itemname": "soda_pineapple",
+    "imagepath": "images/inventory/soda_pineapple.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 876,
+    "itemname": "soda_strawberry",
+    "imagepath": "images/inventory/soda_strawberry.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 877,
+    "itemname": "sodasyrup",
+    "imagepath": "images/inventory/sodasyrup.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 878,
+    "itemname": "sodium_hydroxide",
+    "imagepath": "images/inventory/sodium_hydroxide.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 879,
+    "itemname": "sodiumbicarbonate",
+    "imagepath": "images/inventory/sodiumbicarbonate.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 880,
+    "itemname": "sodiumhydroxide",
+    "imagepath": "images/inventory/sodiumhydroxide.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 881,
+    "itemname": "sodiumhydroxidebarrel",
+    "imagepath": "images/inventory/sodiumhydroxidebarrel.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 882,
+    "itemname": "soup_bean",
+    "imagepath": "images/inventory/soup_bean.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 883,
+    "itemname": "soup_broccoli",
+    "imagepath": "images/inventory/soup_broccoli.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 884,
+    "itemname": "soup_chickennoodle",
+    "imagepath": "images/inventory/soup_chickennoodle.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 885,
+    "itemname": "soup_chickenveg",
+    "imagepath": "images/inventory/soup_chickenveg.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 886,
+    "itemname": "soup_chickenveg2",
+    "imagepath": "images/inventory/soup_chickenveg2.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 887,
+    "itemname": "soup_clamchowder2",
+    "imagepath": "images/inventory/soup_clamchowder2.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 888,
+    "itemname": "soup_cornchowder",
+    "imagepath": "images/inventory/soup_cornchowder.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 889,
+    "itemname": "soup_creamypotato",
+    "imagepath": "images/inventory/soup_creamypotato.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 890,
+    "itemname": "soup_frenchonion",
+    "imagepath": "images/inventory/soup_frenchonion.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 891,
+    "itemname": "soup_frenchonion2",
+    "imagepath": "images/inventory/soup_frenchonion2.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 892,
+    "itemname": "soup_gazpacho",
+    "imagepath": "images/inventory/soup_gazpacho.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 893,
+    "itemname": "Missô",
+    "imagepath": "images/inventory/soup_miso.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 894,
+    "itemname": "Cogumelo",
+    "imagepath": "images/inventory/soup_mushroom.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 895,
+    "itemname": "soup_seafood",
+    "imagepath": "images/inventory/soup_seafood.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 896,
+    "itemname": "soup_squash",
+    "imagepath": "images/inventory/soup_squash.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 897,
+    "itemname": "soup_tomato",
+    "imagepath": "images/inventory/soup_tomato.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 898,
+    "itemname": "soup_tomato2",
+    "imagepath": "images/inventory/soup_tomato2.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 899,
+    "itemname": "soup_vegetable",
+    "imagepath": "images/inventory/soup_vegetable.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 900,
+    "itemname": "sour_amaretto",
+    "imagepath": "images/inventory/sour_amaretto.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 901,
+    "itemname": "sour_whiskey",
+    "imagepath": "images/inventory/sour_whiskey.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 902,
+    "itemname": "spanner",
+    "imagepath": "images/inventory/spanner.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 903,
+    "itemname": "spikestrip",
+    "imagepath": "images/inventory/spikestrip.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 904,
+    "itemname": "splate",
+    "imagepath": "images/inventory/splate.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 905,
+    "itemname": "spoiler",
+    "imagepath": "images/inventory/spoiler.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 906,
+    "itemname": "spray",
+    "imagepath": "images/inventory/spray.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 907,
+    "itemname": "spray_remover",
+    "imagepath": "images/inventory/spray_remover.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 908,
+    "itemname": "sprunk",
+    "imagepath": "images/inventory/sprunk.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 909,
+    "itemname": "sprunklight",
+    "imagepath": "images/inventory/sprunklight.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 910,
+    "itemname": "squarereader",
+    "imagepath": "images/inventory/squarereader.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 911,
+    "itemname": "squid",
+    "imagepath": "images/inventory/squid.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 912,
+    "itemname": "standard_cpu",
+    "imagepath": "images/inventory/standard_cpu.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 913,
+    "itemname": "steakburger",
+    "imagepath": "images/inventory/steakburger.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 914,
+    "itemname": "Steel ingot",
+    "imagepath": "images/inventory/Steel ingot.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 915,
+    "itemname": "steel_plate",
+    "imagepath": "images/inventory/steel_plate.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 916,
+    "itemname": "stickynote",
+    "imagepath": "images/inventory/stickynote.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 917,
+    "itemname": "stolencomputer",
+    "imagepath": "images/inventory/stolencomputer.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 918,
+    "itemname": "stone",
+    "imagepath": "images/inventory/stone.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 919,
+    "itemname": "strawberry",
+    "imagepath": "images/inventory/strawberry.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 920,
+    "itemname": "strawberry_crate",
+    "imagepath": "images/inventory/strawberry_crate.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 921,
+    "itemname": "strawberry_seed",
+    "imagepath": "images/inventory/strawberry_seed.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 922,
+    "itemname": "strawberryfloat",
+    "imagepath": "images/inventory/strawberryfloat.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 923,
+    "itemname": "stuffedpotato",
+    "imagepath": "images/inventory/stuffedpotato.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 924,
+    "itemname": "sugar",
+    "imagepath": "images/inventory/sugar.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 925,
+    "itemname": "sunday_caramel",
+    "imagepath": "images/inventory/sunday_caramel.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 926,
+    "itemname": "sunday_chocolate",
+    "imagepath": "images/inventory/sunday_chocolate.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 927,
+    "itemname": "sunday_strawberry",
+    "imagepath": "images/inventory/sunday_strawberry.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 928,
+    "itemname": "surgicalkit",
+    "imagepath": "images/inventory/surgicalkit.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 929,
+    "itemname": "surimi",
+    "imagepath": "images/inventory/surimi.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 930,
+    "itemname": "sushi1",
+    "imagepath": "images/inventory/sushi1.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 931,
+    "itemname": "sushi10",
+    "imagepath": "images/inventory/sushi10.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 932,
+    "itemname": "sushi11",
+    "imagepath": "images/inventory/sushi11.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 933,
+    "itemname": "sushi2",
+    "imagepath": "images/inventory/sushi2.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 934,
+    "itemname": "sushi3",
+    "imagepath": "images/inventory/sushi3.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 935,
+    "itemname": "sushi4",
+    "imagepath": "images/inventory/sushi4.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 936,
+    "itemname": "sushi5",
+    "imagepath": "images/inventory/sushi5.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 937,
+    "itemname": "sushi6",
+    "imagepath": "images/inventory/sushi6.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 938,
+    "itemname": "sushi7",
+    "imagepath": "images/inventory/sushi7.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 939,
+    "itemname": "sushi8",
+    "imagepath": "images/inventory/sushi8.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 940,
+    "itemname": "sushi9",
+    "imagepath": "images/inventory/sushi9.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 941,
+    "itemname": "suspension1",
+    "imagepath": "images/inventory/suspension1.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 942,
+    "itemname": "suspension2",
+    "imagepath": "images/inventory/suspension2.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 943,
+    "itemname": "suspension3",
+    "imagepath": "images/inventory/suspension3.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 944,
+    "itemname": "suspension4",
+    "imagepath": "images/inventory/suspension4.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 945,
+    "itemname": "suturekit",
+    "imagepath": "images/inventory/suturekit.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 946,
+    "itemname": "syringe",
+    "imagepath": "images/inventory/syringe.png",
+    "maxquantity": 20,
+    "weight": 1
+  },
+  {
+    "itemid": 947,
+    "itemname": "syringefull",
+    "imagepath": "images/inventory/syringefull.png",
+    "maxquantity": 20,
+    "weight": 1
+  },
+  {
+    "itemid": 948,
+    "itemname": "tablet",
+    "imagepath": "images/inventory/tablet.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 949,
+    "itemname": "taco_beef",
+    "imagepath": "images/inventory/taco_beef.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 950,
+    "itemname": "taco_chicken",
+    "imagepath": "images/inventory/taco_chicken.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 951,
+    "itemname": "taco_chicken2",
+    "imagepath": "images/inventory/taco_chicken2.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 952,
+    "itemname": "taco_fish",
+    "imagepath": "images/inventory/taco_fish.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 953,
+    "itemname": "taco_plate",
+    "imagepath": "images/inventory/taco_plate.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 954,
+    "itemname": "taco_shell",
+    "imagepath": "images/inventory/taco_shell.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 955,
+    "itemname": "tape_duct",
+    "imagepath": "images/inventory/tape_duct.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 956,
+    "itemname": "tape_electrical",
+    "imagepath": "images/inventory/tape_electrical.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 957,
+    "itemname": "tea_black",
+    "imagepath": "images/inventory/tea_black.png",
+    "maxquantity": 50,
+    "weight": 0.3
+  },
+  {
+    "itemid": 958,
+    "itemname": "tea_bubble",
+    "imagepath": "images/inventory/tea_bubble.png",
+    "maxquantity": 50,
+    "weight": 0.3
+  },
+  {
+    "itemid": 959,
+    "itemname": "tea_bubble_blue",
+    "imagepath": "images/inventory/tea_bubble_blue.png",
+    "maxquantity": 50,
+    "weight": 0.3
+  },
+  {
+    "itemid": 960,
+    "itemname": "tea_bubble_green",
+    "imagepath": "images/inventory/tea_bubble_green.png",
+    "maxquantity": 50,
+    "weight": 0.3
+  },
+  {
+    "itemid": 961,
+    "itemname": "tea_bubble_orange",
+    "imagepath": "images/inventory/tea_bubble_orange.png",
+    "maxquantity": 50,
+    "weight": 0.3
+  },
+  {
+    "itemid": 962,
+    "itemname": "tea_bubble_pink",
+    "imagepath": "images/inventory/tea_bubble_pink.png",
+    "maxquantity": 50,
+    "weight": 0.3
+  },
+  {
+    "itemid": 963,
+    "itemname": "tea_green",
+    "imagepath": "images/inventory/tea_green.png",
+    "maxquantity": 50,
+    "weight": 0.3
+  },
+  {
+    "itemid": 964,
+    "itemname": "tea_green_matcha",
+    "imagepath": "images/inventory/tea_green_matcha.png",
+    "maxquantity": 50,
+    "weight": 0.3
+  },
+  {
+    "itemid": 965,
+    "itemname": "tea_iced",
+    "imagepath": "images/inventory/tea_iced.png",
+    "maxquantity": 50,
+    "weight": 0.3
+  },
+  {
+    "itemid": 966,
+    "itemname": "tea_peach_ided",
+    "imagepath": "images/inventory/tea_peach_ided.png",
+    "maxquantity": 50,
+    "weight": 0.3
+  },
+  {
+    "itemid": 967,
+    "itemname": "teabag",
+    "imagepath": "images/inventory/teabag.png",
+    "maxquantity": 50,
+    "weight": 0.3
+  },
+  {
+    "itemid": 968,
+    "itemname": "tf_tostada",
+    "imagepath": "images/inventory/tf_tostada.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 969,
+    "itemname": "thermal_katana_orange",
+    "imagepath": "images/inventory/thermal_katana_orange.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 970,
+    "itemname": "thermite",
+    "imagepath": "images/inventory/thermite.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 971,
+    "itemname": "ticket",
+    "imagepath": "images/inventory/ticket.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 972,
+    "itemname": "ticketbook",
+    "imagepath": "images/inventory/ticketbook.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 973,
+    "itemname": "tint_supplies",
+    "imagepath": "images/inventory/tint_supplies.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 974,
+    "itemname": "tiramisu",
+    "imagepath": "images/inventory/tiramisu.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 975,
+    "itemname": "tires",
+    "imagepath": "images/inventory/tires.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 976,
+    "itemname": "tofu",
+    "imagepath": "images/inventory/tofu.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 977,
+    "itemname": "tomato",
+    "imagepath": "images/inventory/tomato.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 978,
+    "itemname": "tomato_crate",
+    "imagepath": "images/inventory/tomato_crate.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 979,
+    "itemname": "tomato_seed",
+    "imagepath": "images/inventory/tomato_seed.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 980,
+    "itemname": "tomcollins",
+    "imagepath": "images/inventory/tomcollins.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 981,
+    "itemname": "toolbox",
+    "imagepath": "images/inventory/toolbox.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 982,
+    "itemname": "tostada",
+    "imagepath": "images/inventory/tostada.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 983,
+    "itemname": "tostada_shell",
+    "imagepath": "images/inventory/tostada_shell.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 984,
+    "itemname": "tots",
+    "imagepath": "images/inventory/tots.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 985,
+    "itemname": "transmission1",
+    "imagepath": "images/inventory/transmission1.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 986,
+    "itemname": "transmission2",
+    "imagepath": "images/inventory/transmission2.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 987,
+    "itemname": "transmission3",
+    "imagepath": "images/inventory/transmission3.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 988,
+    "itemname": "Trilenol",
+    "imagepath": "images/inventory/Trilenol.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 989,
+    "itemname": "tripleburger",
+    "imagepath": "images/inventory/tripleburger.png",
+    "maxquantity": 100,
+    "weight": 0.5
+  },
+  {
+    "itemid": 990,
+    "itemname": "trophy_handcuffs",
+    "imagepath": "images/inventory/trophy_handcuffs.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 991,
+    "itemname": "trophy_shield",
+    "imagepath": "images/inventory/trophy_shield.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 992,
+    "itemname": "tunerchip",
+    "imagepath": "images/inventory/tunerchip.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 993,
+    "itemname": "turbo",
+    "imagepath": "images/inventory/turbo.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 994,
+    "itemname": "twerks_candy",
+    "imagepath": "images/inventory/twerks_candy.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 995,
+    "itemname": "tyre_bennys",
+    "imagepath": "images/inventory/tyre_bennys.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 996,
+    "itemname": "tyre_bespoke",
+    "imagepath": "images/inventory/tyre_bespoke.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 997,
+    "itemname": "tyre_f1",
+    "imagepath": "images/inventory/tyre_f1.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 998,
+    "itemname": "tyre_highend",
+    "imagepath": "images/inventory/tyre_highend.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 999,
+    "itemname": "tyre_lowrider",
+    "imagepath": "images/inventory/tyre_lowrider.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1000,
+    "itemname": "tyre_motorcycle",
+    "imagepath": "images/inventory/tyre_motorcycle.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1001,
+    "itemname": "tyre_muscle",
+    "imagepath": "images/inventory/tyre_muscle.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1002,
+    "itemname": "tyre_offroad",
+    "imagepath": "images/inventory/tyre_offroad.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1003,
+    "itemname": "tyre_sport",
+    "imagepath": "images/inventory/tyre_sport.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1004,
+    "itemname": "tyre_street",
+    "imagepath": "images/inventory/tyre_street.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1005,
+    "itemname": "tyre_suv",
+    "imagepath": "images/inventory/tyre_suv.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1006,
+    "itemname": "tyre_tuner",
+    "imagepath": "images/inventory/tyre_tuner.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1007,
+    "itemname": "umbrella",
+    "imagepath": "images/inventory/umbrella.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1008,
+    "itemname": "uncut_diamond",
+    "imagepath": "images/inventory/uncut_diamond.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1009,
+    "itemname": "uncut_emerald",
+    "imagepath": "images/inventory/uncut_emerald.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1010,
+    "itemname": "uncut_ruby",
+    "imagepath": "images/inventory/uncut_ruby.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1011,
+    "itemname": "uncut_sapphire",
+    "imagepath": "images/inventory/uncut_sapphire.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1012,
+    "itemname": "underglow_controller",
+    "imagepath": "images/inventory/underglow_controller.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1013,
+    "itemname": "usb_drive1",
+    "imagepath": "images/inventory/usb_drive1.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1014,
+    "itemname": "usb_drive2",
+    "imagepath": "images/inventory/usb_drive2.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1015,
+    "itemname": "usb_drive3",
+    "imagepath": "images/inventory/usb_drive3.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1016,
+    "itemname": "usb_drive4",
+    "imagepath": "images/inventory/usb_drive4.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1017,
+    "itemname": "uwu_bubbletea",
+    "imagepath": "images/inventory/uwu_bubbletea.png",
+    "maxquantity": 50,
+    "weight": 0.3
+  },
+  {
+    "itemid": 1018,
+    "itemname": "uwu-cafe-box",
+    "imagepath": "images/inventory/uwu-cafe-box.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1019,
+    "itemname": "v10engine",
+    "imagepath": "images/inventory/v10engine.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1020,
+    "itemname": "v12engine",
+    "imagepath": "images/inventory/v12engine.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1021,
+    "itemname": "v8engine",
+    "imagepath": "images/inventory/v8engine.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1022,
+    "itemname": "veggiewrap",
+    "imagepath": "images/inventory/veggiewrap.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1023,
+    "itemname": "vehiclecoupon",
+    "imagepath": "images/inventory/vehiclecoupon.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1024,
+    "itemname": "walkstick",
+    "imagepath": "images/inventory/walkstick.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1025,
+    "itemname": "walkstick2",
+    "imagepath": "images/inventory/walkstick2.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1026,
+    "itemname": "water_bottle",
+    "imagepath": "images/inventory/water_bottle.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1027,
+    "itemname": "water_bottle2",
+    "imagepath": "images/inventory/water_bottle2.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1028,
+    "itemname": "water_bulk",
+    "imagepath": "images/inventory/water_bulk.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1029,
+    "itemname": "watering_can",
+    "imagepath": "images/inventory/watering_can.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1030,
+    "itemname": "watering_can_full",
+    "imagepath": "images/inventory/watering_can_full.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1031,
+    "itemname": "weapon_357_magnum",
+    "imagepath": "images/inventory/weapon_357_magnum.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1032,
+    "itemname": "weapon_advancedrifle",
+    "imagepath": "images/inventory/weapon_advancedrifle.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1033,
+    "itemname": "weapon_ak47_orbit",
+    "imagepath": "images/inventory/weapon_ak47_orbit.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1034,
+    "itemname": "WEAPON_AK47NEON",
+    "imagepath": "images/inventory/WEAPON_AK47NEON.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1035,
+    "itemname": "weapon_appistol",
+    "imagepath": "images/inventory/weapon_appistol.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1036,
+    "itemname": "weapon_assaultrifle",
+    "imagepath": "images/inventory/weapon_assaultrifle.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1037,
+    "itemname": "weapon_assaultrifle_mk2",
+    "imagepath": "images/inventory/weapon_assaultrifle_mk2.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1038,
+    "itemname": "weapon_assaultshotgun",
+    "imagepath": "images/inventory/weapon_assaultshotgun.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1039,
+    "itemname": "weapon_assaultsmg",
+    "imagepath": "images/inventory/weapon_assaultsmg.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1040,
+    "itemname": "weapon_autoshotgun",
+    "imagepath": "images/inventory/weapon_autoshotgun.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1041,
+    "itemname": "WEAPON_AWP",
+    "imagepath": "images/inventory/WEAPON_AWP.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1042,
+    "itemname": "weapon_ball",
+    "imagepath": "images/inventory/weapon_ball.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1043,
+    "itemname": "weapon_bat",
+    "imagepath": "images/inventory/weapon_bat.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1044,
+    "itemname": "weapon_battleaxe",
+    "imagepath": "images/inventory/weapon_battleaxe.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1045,
+    "itemname": "weapon_bdstungun",
+    "imagepath": "images/inventory/weapon_bdstungun.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1046,
+    "itemname": "weapon_bottle",
+    "imagepath": "images/inventory/weapon_bottle.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1047,
+    "itemname": "weapon_briefcase",
+    "imagepath": "images/inventory/weapon_briefcase.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1048,
+    "itemname": "weapon_briefcase2",
+    "imagepath": "images/inventory/weapon_briefcase2.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1049,
+    "itemname": "weapon_bullpuprifle",
+    "imagepath": "images/inventory/weapon_bullpuprifle.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1050,
+    "itemname": "weapon_bullpuprifle_mk2",
+    "imagepath": "images/inventory/weapon_bullpuprifle_mk2.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1051,
+    "itemname": "weapon_bullpupshotgun",
+    "imagepath": "images/inventory/weapon_bullpupshotgun.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1052,
+    "itemname": "weapon_bzgas",
+    "imagepath": "images/inventory/weapon_bzgas.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1053,
+    "itemname": "weapon_c4",
+    "imagepath": "images/inventory/weapon_c4.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1054,
+    "itemname": "weapon_candycane",
+    "imagepath": "images/inventory/weapon_candycane.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1055,
+    "itemname": "weapon_carbinerifle",
+    "imagepath": "images/inventory/weapon_carbinerifle.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1056,
+    "itemname": "weapon_carbinerifle_mk2",
+    "imagepath": "images/inventory/weapon_carbinerifle_mk2.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1057,
+    "itemname": "weapon_ceramicpistol",
+    "imagepath": "images/inventory/weapon_ceramicpistol.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1058,
+    "itemname": "weapon_combat_knife",
+    "imagepath": "images/inventory/weapon_combat_knife.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1059,
+    "itemname": "weapon_combatmg",
+    "imagepath": "images/inventory/weapon_combatmg.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1060,
+    "itemname": "weapon_combatmg_mk2",
+    "imagepath": "images/inventory/weapon_combatmg_mk2.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1061,
+    "itemname": "weapon_combatpdw",
+    "imagepath": "images/inventory/weapon_combatpdw.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1062,
+    "itemname": "weapon_combatpistol",
+    "imagepath": "images/inventory/weapon_combatpistol.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1063,
+    "itemname": "weapon_combatshotgun",
+    "imagepath": "images/inventory/weapon_combatshotgun.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1064,
+    "itemname": "weapon_compactlauncher",
+    "imagepath": "images/inventory/weapon_compactlauncher.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1065,
+    "itemname": "weapon_compactrifle",
+    "imagepath": "images/inventory/weapon_compactrifle.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1066,
+    "itemname": "weapon_crowbar",
+    "imagepath": "images/inventory/weapon_crowbar.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1067,
+    "itemname": "weapon_dagger",
+    "imagepath": "images/inventory/weapon_dagger.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1068,
+    "itemname": "weapon_dbshotgun",
+    "imagepath": "images/inventory/weapon_dbshotgun.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1069,
+    "itemname": "weapon_doubleaction",
+    "imagepath": "images/inventory/weapon_doubleaction.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1070,
+    "itemname": "weapon_fireextinguisher",
+    "imagepath": "images/inventory/weapon_fireextinguisher.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1071,
+    "itemname": "weapon_firework",
+    "imagepath": "images/inventory/weapon_firework.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1072,
+    "itemname": "weapon_flare",
+    "imagepath": "images/inventory/weapon_flare.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1073,
+    "itemname": "weapon_flaregun",
+    "imagepath": "images/inventory/weapon_flaregun.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1074,
+    "itemname": "weapon_flashlight",
+    "imagepath": "images/inventory/weapon_flashlight.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1075,
+    "itemname": "weapon_garbagebag",
+    "imagepath": "images/inventory/weapon_garbagebag.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1076,
+    "itemname": "weapon_gas",
+    "imagepath": "images/inventory/weapon_gas.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1077,
+    "itemname": "weapon_golfclub",
+    "imagepath": "images/inventory/weapon_golfclub.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1078,
+    "itemname": "weapon_goodnightbat",
+    "imagepath": "images/inventory/weapon_goodnightbat.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1079,
+    "itemname": "weapon_grenade",
+    "imagepath": "images/inventory/weapon_grenade.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1080,
+    "itemname": "weapon_grenadelauncher",
+    "imagepath": "images/inventory/weapon_grenadelauncher.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1081,
+    "itemname": "weapon_grenadelauncher_smoke",
+    "imagepath": "images/inventory/weapon_grenadelauncher_smoke.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1082,
+    "itemname": "weapon_gusenberg",
+    "imagepath": "images/inventory/weapon_gusenberg.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1083,
+    "itemname": "weapon_hammer",
+    "imagepath": "images/inventory/weapon_hammer.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1084,
+    "itemname": "weapon_handcuffs",
+    "imagepath": "images/inventory/weapon_handcuffs.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1085,
+    "itemname": "weapon_hatchet",
+    "imagepath": "images/inventory/weapon_hatchet.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1086,
+    "itemname": "weapon_hazardcan",
+    "imagepath": "images/inventory/weapon_hazardcan.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1087,
+    "itemname": "weapon_heavypistol",
+    "imagepath": "images/inventory/weapon_heavypistol.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1088,
+    "itemname": "weapon_heavyshotgun",
+    "imagepath": "images/inventory/weapon_heavyshotgun.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1089,
+    "itemname": "weapon_heavysniper",
+    "imagepath": "images/inventory/weapon_heavysniper.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1090,
+    "itemname": "weapon_heavysniper_mk2",
+    "imagepath": "images/inventory/weapon_heavysniper_mk2.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1091,
+    "itemname": "weapon_hominglauncher",
+    "imagepath": "images/inventory/weapon_hominglauncher.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1092,
+    "itemname": "weapon_judge",
+    "imagepath": "images/inventory/weapon_judge.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1093,
+    "itemname": "weapon_knife",
+    "imagepath": "images/inventory/weapon_knife.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1094,
+    "itemname": "weapon_knuckle",
+    "imagepath": "images/inventory/weapon_knuckle.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1095,
+    "itemname": "weapon_lovehate",
+    "imagepath": "images/inventory/weapon_lovehate.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1096,
+    "itemname": "WEAPON_M4A4",
+    "imagepath": "images/inventory/WEAPON_M4A4.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1097,
+    "itemname": "weapon_machete",
+    "imagepath": "images/inventory/weapon_machete.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1098,
+    "itemname": "weapon_machinepistol",
+    "imagepath": "images/inventory/weapon_machinepistol.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1099,
+    "itemname": "weapon_marksmanpistol",
+    "imagepath": "images/inventory/weapon_marksmanpistol.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1100,
+    "itemname": "weapon_marksmanrifle",
+    "imagepath": "images/inventory/weapon_marksmanrifle.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1101,
+    "itemname": "weapon_marksmanrifle_mk2",
+    "imagepath": "images/inventory/weapon_marksmanrifle_mk2.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1102,
+    "itemname": "weapon_mg",
+    "imagepath": "images/inventory/weapon_mg.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1103,
+    "itemname": "weapon_microsmg",
+    "imagepath": "images/inventory/weapon_microsmg.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1104,
+    "itemname": "weapon_militaryrifle",
+    "imagepath": "images/inventory/weapon_militaryrifle.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1105,
+    "itemname": "weapon_minigun",
+    "imagepath": "images/inventory/weapon_minigun.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1106,
+    "itemname": "weapon_minismg",
+    "imagepath": "images/inventory/weapon_minismg.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1107,
+    "itemname": "weapon_molotov",
+    "imagepath": "images/inventory/weapon_molotov.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1108,
+    "itemname": "weapon_navyrevolver",
+    "imagepath": "images/inventory/weapon_navyrevolver.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1109,
+    "itemname": "weapon_nightstick",
+    "imagepath": "images/inventory/weapon_nightstick.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1110,
+    "itemname": "weapon_perico_pistol",
+    "imagepath": "images/inventory/weapon_perico_pistol.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1111,
+    "itemname": "weapon_petrolcan",
+    "imagepath": "images/inventory/weapon_petrolcan.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1112,
+    "itemname": "weapon_pipebomb",
+    "imagepath": "images/inventory/weapon_pipebomb.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1113,
+    "itemname": "weapon_pistol",
+    "imagepath": "images/inventory/weapon_pistol.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1114,
+    "itemname": "weapon_pistol_mk2",
+    "imagepath": "images/inventory/weapon_pistol_mk2.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1115,
+    "itemname": "weapon_pistol_WM29",
+    "imagepath": "images/inventory/weapon_pistol_WM29.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1116,
+    "itemname": "weapon_pistol50",
+    "imagepath": "images/inventory/weapon_pistol50.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1117,
+    "itemname": "weapon_poolcue",
+    "imagepath": "images/inventory/weapon_poolcue.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1118,
+    "itemname": "weapon_proximitymine",
+    "imagepath": "images/inventory/weapon_proximitymine.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1119,
+    "itemname": "weapon_pumpshotgun",
+    "imagepath": "images/inventory/weapon_pumpshotgun.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1120,
+    "itemname": "weapon_pumpshotgun_mk2",
+    "imagepath": "images/inventory/weapon_pumpshotgun_mk2.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1121,
+    "itemname": "weapon_railgun",
+    "imagepath": "images/inventory/weapon_railgun.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1122,
+    "itemname": "weapon_raycarbine",
+    "imagepath": "images/inventory/weapon_raycarbine.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1123,
+    "itemname": "weapon_rayminigun",
+    "imagepath": "images/inventory/weapon_rayminigun.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1124,
+    "itemname": "weapon_raypistol",
+    "imagepath": "images/inventory/weapon_raypistol.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1125,
+    "itemname": "weapon_remotesniper",
+    "imagepath": "images/inventory/weapon_remotesniper.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1126,
+    "itemname": "weapon_revolver",
+    "imagepath": "images/inventory/weapon_revolver.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1127,
+    "itemname": "weapon_revolver_mk2",
+    "imagepath": "images/inventory/weapon_revolver_mk2.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1128,
+    "itemname": "weapon_rpg",
+    "imagepath": "images/inventory/weapon_rpg.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1129,
+    "itemname": "weapon_sawnoffshotgun",
+    "imagepath": "images/inventory/weapon_sawnoffshotgun.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1130,
+    "itemname": "weapon_smg",
+    "imagepath": "images/inventory/weapon_smg.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1131,
+    "itemname": "weapon_smg_mk2",
+    "imagepath": "images/inventory/weapon_smg_mk2.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1132,
+    "itemname": "weapon_sniperrifle",
+    "imagepath": "images/inventory/weapon_sniperrifle.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1133,
+    "itemname": "weapon_snowball",
+    "imagepath": "images/inventory/weapon_snowball.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1134,
+    "itemname": "weapon_snspistol",
+    "imagepath": "images/inventory/weapon_snspistol.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1135,
+    "itemname": "weapon_snspistol_mk2",
+    "imagepath": "images/inventory/weapon_snspistol_mk2.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1136,
+    "itemname": "weapon_specialcarbine",
+    "imagepath": "images/inventory/weapon_specialcarbine.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1137,
+    "itemname": "weapon_specialcarbine_mk2",
+    "imagepath": "images/inventory/weapon_specialcarbine_mk2.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1138,
+    "itemname": "weapon_stickybomb",
+    "imagepath": "images/inventory/weapon_stickybomb.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1139,
+    "itemname": "weapon_stone_hatchet",
+    "imagepath": "images/inventory/weapon_stone_hatchet.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1140,
+    "itemname": "weapon_stungun",
+    "imagepath": "images/inventory/weapon_stungun.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1141,
+    "itemname": "weapon_switchblade",
+    "imagepath": "images/inventory/weapon_switchblade.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1142,
+    "itemname": "weapon_tazersg",
+    "imagepath": "images/inventory/weapon_tazersg.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1143,
+    "itemname": "weapon_ump45",
+    "imagepath": "images/inventory/weapon_ump45.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1144,
+    "itemname": "weapon_vector",
+    "imagepath": "images/inventory/weapon_vector.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1145,
+    "itemname": "weapon_vintagepistol",
+    "imagepath": "images/inventory/weapon_vintagepistol.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1146,
+    "itemname": "weapon_wrench",
+    "imagepath": "images/inventory/weapon_wrench.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1147,
+    "itemname": "weaponthreading",
+    "imagepath": "images/inventory/weaponthreading.png",
+    "maxquantity": 10,
+    "weight": 5
+  },
+  {
+    "itemid": 1148,
+    "itemname": "weed_butter",
+    "imagepath": "images/inventory/weed_butter.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1149,
+    "itemname": "weed_gummies",
+    "imagepath": "images/inventory/weed_gummies.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1150,
+    "itemname": "weed_laced",
+    "imagepath": "images/inventory/weed_laced.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1151,
+    "itemname": "weed_oil",
+    "imagepath": "images/inventory/weed_oil.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1152,
+    "itemname": "weed_ream",
+    "imagepath": "images/inventory/weed_ream.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1153,
+    "itemname": "weedscissors",
+    "imagepath": "images/inventory/weedscissors.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1154,
+    "itemname": "wheat",
+    "imagepath": "images/inventory/wheat.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1155,
+    "itemname": "wheat_bag",
+    "imagepath": "images/inventory/wheat_bag.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1156,
+    "itemname": "wheat_seed",
+    "imagepath": "images/inventory/wheat_seed.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1157,
+    "itemname": "whip_cream",
+    "imagepath": "images/inventory/whip_cream.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1158,
+    "itemname": "whiskey_rocks",
+    "imagepath": "images/inventory/whiskey_rocks.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1159,
+    "itemname": "wine_chardoney",
+    "imagepath": "images/inventory/wine_chardoney.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1160,
+    "itemname": "wine_merlot",
+    "imagepath": "images/inventory/wine_merlot.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1161,
+    "itemname": "wine_red",
+    "imagepath": "images/inventory/wine_red.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1162,
+    "itemname": "wine_rose",
+    "imagepath": "images/inventory/wine_rose.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1163,
+    "itemname": "wine_white",
+    "imagepath": "images/inventory/wine_white.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1164,
+    "itemname": "wings",
+    "imagepath": "images/inventory/wings.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1165,
+    "itemname": "wood",
+    "imagepath": "images/inventory/wood.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1166,
+    "itemname": "wood_cedar",
+    "imagepath": "images/inventory/wood_cedar.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1167,
+    "itemname": "wood_maple",
+    "imagepath": "images/inventory/wood_maple.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1168,
+    "itemname": "wood_oak",
+    "imagepath": "images/inventory/wood_oak.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1169,
+    "itemname": "wood_pine",
+    "imagepath": "images/inventory/wood_pine.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1170,
+    "itemname": "woowoo",
+    "imagepath": "images/inventory/woowoo.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1171,
+    "itemname": "wrap",
+    "imagepath": "images/inventory/wrap.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1172,
+    "itemname": "xray",
+    "imagepath": "images/inventory/xray.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1173,
+    "itemname": "zipties",
+    "imagepath": "images/inventory/zipties.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  },
+  {
+    "itemid": 1174,
+    "itemname": "screw",
+    "imagepath": "images/inventory/screw.png",
+    "maxquantity": 1000,
+    "weight": 0.1
+  }
+]

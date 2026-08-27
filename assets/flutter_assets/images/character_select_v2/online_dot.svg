@@ -1,0 +1,23 @@
+<svg width="8" height="8" viewBox="0 0 8 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Layout - Main " clip-path="url(#clip0_0_1)">
+<g id="Group 19">
+<g id="players on">
+<g id="Group 20">
+<circle id="Ellipse 1" cx="4" cy="4" r="1" fill="#0DFF00"/>
+<g id="Ellipse 2" filter="url(#filter0_f_0_1)">
+<circle cx="4" cy="4" r="1" fill="#0DFF00"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_0_1" x="0" y="0" width="8" height="8" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="1.5" result="effect1_foregroundBlur_0_1"/>
+</filter>
+<clipPath id="clip0_0_1">
+</clipPath>
+</defs>
+</svg>
